@@ -117,5 +117,5 @@
 2024/02/28：对剩余5个单位使用SAM自动截取切片`goblin-drill, goblin, miner, little-prince, royal-guardian`。
 
 - `miner`：`240~510`
-- `little-prince, royal-guardian`：`690~1140`
-- 
+- `little-prince, royal-guardian`：`690~1140, 3525~3750`
+- `goblin-drill, goblin`：`1980~2205, 4530~4545`
