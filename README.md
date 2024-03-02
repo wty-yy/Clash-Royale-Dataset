@@ -44,7 +44,7 @@ CR/card_labels/part3/video_name/episode/frame.txt
 
 Until 2023/10/30, there are 116 different cards in Royale (include evolution cards). Card names can be found at [`katacr/constants/card_list.py`](https://github.com/wty-yy/KataCR/blob/master/katacr/constants/card_list.py).
 
-But the card name is not completely, because the unit for different card could be same. So, we use unit name to distinguish different units, they can be found at [`katacr/constants/unit_list.py`](https://github.com/wty-yy/KataCR/blob/master/katacr/constants/unit_list.py). There are $127$ different units in Royale (include card unit, `queen-tower`, `king-tower`, 13 spells and 3 objects, see detail state).
+But the card name is not completely, because the unit for different card could be same. So, we use unit name to distinguish different units, they can be found at [`katacr/constants/label_list.py`](https://github.com/wty-yy/KataCR/blob/master/katacr/constants/label_list.py). There are $127$ different units in Royale (include card unit, `queen-tower`, `king-tower`, 13 spells and 3 objects, see detail state).
 
 #### Detail state
 
