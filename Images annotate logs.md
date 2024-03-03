@@ -122,6 +122,12 @@
 
 ### WTY_20240301_episodes_1
 
-2024/03/02：按照15帧手工标记，包含：`'archer-evolution1', 'archer-queen1', 'balloon1', 'battle-healer1', 'battle-ram1', 'bowler1', 'cannon-cart1', 'dark-prince1', giant0, goblin0, golem0, golemite0, knight0` 13个新单位切片，`archer1, bomb1`2个已有切片。
+2024/03/02：按照15帧手工标记，包含：`'archer-evolution1', 'archer-queen1', 'balloon1', 'battle-healer1', 'battle-ram1', 'bowler1', 'cannon-cart1', 'dark-prince1', giant0, goblin0, golem0, golemite0, knight0` 13个新单位切片，`archer1, bomb1`2个已有切片，`elixir`中加入2个新切片。
 
 有效帧数范围：`0~1905, 2400~3450, 3600~4230`，总计242帧，标记用时142mins完成，筛选切片用时60mins。更新数据集为annotation v0.7, segment v0.9
+
+### WTY_20240303_episodes_1
+
+2024/03/03：按照15帧手工标记，包含：`'bomber', 'bomber-evolution', 'dart-goblin', 'electro-dragon', 'electro-giant', 'elixir-collector', 'elixir-golem-big', 'elixir-golem-mid', 'elixir-golem-small', 'executioner', 'axe', 'fire-spirit'` 12个新单位切片。`elixir`中加入3个新切片。
+
+有效帧范围：`0~2655, 2880~3480`，总计219帧，标记用时165mins完成，筛选切片用时90mins。更新数据集为annotation v0.8, segment v0.10，还差45种切片。
