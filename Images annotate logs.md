@@ -95,7 +95,7 @@
 
 2024/02/28：加入对应的标记数据集，使用训练v0.4.5.4的模型对其进行标记后修正。
 
-### WTY_20240226_miners
+### WTY_20240227_miners
 
 2024/02/27：30fps视频，手工按照5帧获取单位切片（917帧），自动按照15帧获取切片（305帧）。
 
@@ -119,3 +119,9 @@
 - `miner`：`240~510`
 - `little-prince, royal-guardian`：`690~1140, 3525~3750`
 - `goblin-drill, goblin`：`1980~2205, 4530~4545`
+
+### WTY_20240301_episodes_1
+
+2024/03/02：按照15帧手工标记，包含：`'archer-evolution1', 'archer-queen1', 'balloon1', 'battle-healer1', 'battle-ram1', 'bowler1', 'cannon-cart1', 'dark-prince1', giant0, goblin0, golem0, golemite0, knight0` 13个新单位切片，`archer1, bomb1`2个已有切片。
+
+有效帧数范围：`0~1905, 2400~3450, 3600~4230`，总计242帧，标记用时142mins完成，筛选切片用时60mins。更新数据集为annotation v0.7, segment v0.9
