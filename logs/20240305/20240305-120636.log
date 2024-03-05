@@ -1,0 +1,962 @@
+Loading models...
+Loading completely!
+Stop waydroid session!
+Get ERROR: Command 'adb exec-out screencap -p' returned non-zero exit status 255.
+Reset waydroid!
+Wait 15 seconds for UI opening
+Wait 10 seconds for baicizhan opening
+disconnected everything
+
+connected to 192.168.240.112:5555
+
+Wait 5 seconds for switch page
+Finish reset!
+Start episode 1!
+follower -> ['追随者', '信徒', '属下']
+['追随者', '信徒', '属下'] ['保险商', '承诺支付者', '承购.'] cosine similary 0.96557975
+['追随者', '信徒', '属下'] ['入场权', '准入'] cosine similary 0.9555002
+['追随者', '信徒', '属下'] ['商品', "货品（读作/'m3rt∫a.."] cosine similary 0.9542993
+['追随者', '信徒', '属下'] ['追随者'] cosine similary 0.99999994
+{'similary': 2.9999999403953552, 'center': array([ 288., 1135.]), 'word': ['追随者']}
+Time used: 2.923511266708374 Last word: follower
+meager -> ['贫乏', '瘦', '兆']
+['贫乏', '瘦', '兆'] ['叹为观止', '惊人'] cosine similary 0.95336413
+['贫乏', '瘦', '兆'] ['不屈不挠'] cosine similary 0.931891
+['贫乏', '瘦', '兆'] ['多种', '各式各样'] cosine similary 0.95043284
+['贫乏', '瘦', '兆'] ['瘦'] cosine similary 1.0
+{'similary': 3.0, 'center': array([ 288., 1134.]), 'word': ['瘦']}
+Time used: 1.4955244064331055 Last word: meager
+transact -> ['交易', '谈判', '办理', '处理']
+['交易', '谈判', '办理', '处理'] ['开始', '(begin过去分词)'] cosine similary 0.952063
+['交易', '谈判', '办理', '处理'] ['交易', '办理', '谈判', '进行'] cosine similary 1.0000001
+['交易', '谈判', '办理', '处理'] ['划破', '撕裂'] cosine similary 0.9580482
+['交易', '谈判', '办理', '处理'] ['怒目而视'] cosine similary 0.95020723
+{'similary': 3.0000001192092896, 'center': array([287., 860.]), 'word': ['交易', '办理', '谈判', '进行']}
+Time used: 1.4925930500030518 Last word: transact
+Can't translate devoid of , Use Chat!
+Prompt: 选择符合devoid of的中文翻译，只给出选项，无需解释
+A.热爱
+B.严重受损，破败不堪
+C.没有，缺乏的
+D.进行体育活动
+Answer: C.没有，缺乏的。
+Time used: 2.83331298828125 Last word: devoid of
+wag -> ['摇摆', '摇动', '饶舌', '摆动', '喋喋不休', '蹒跚而行', '摇摆', '爱说笑打趣人']
+['摇摆', '摇动', '饶舌', '摆动', '喋喋不休', '蹒跚而行', '摇摆', '爱说笑打趣人'] ['气质', '性格', '喜怒无常'] cosine similary 0.9673773
+['摇摆', '摇动', '饶舌', '摆动', '喋喋不休', '蹒跚而行', '摇摆', '爱说笑打趣人'] ['代理人'] cosine similary 0.94459254
+['摇摆', '摇动', '饶舌', '摆动', '喋喋不休', '蹒跚而行', '摇摆', '爱说笑打趣人'] ['摇摆'] cosine similary 1.0000001
+['摇摆', '摇动', '饶舌', '摆动', '喋喋不休', '蹒跚而行', '摇摆', '爱说笑打趣人'] ['领带'] cosine similary 0.9484865
+{'similary': 3.0000001192092896, 'center': array([288. , 997.5]), 'word': ['摇摆']}
+Time used: 1.5739481449127197 Last word: wag
+counterclockwise -> ['反时针方向', '反时针方向']
+['反时针方向', '反时针方向'] ['自发地'] cosine similary 0.9469249
+['反时针方向', '反时针方向'] ['部分地'] cosine similary 0.9411737
+['反时针方向', '反时针方向'] ['逆时针方向'] cosine similary 0.9931647
+['反时针方向', '反时针方向'] ['频繁地'] cosine similary 0.9463199
+{'similary': 0.9931647, 'center': array([288., 997.]), 'word': ['逆时针方向']}
+Time used: 1.502608299255371 Last word: counterclockwise
+propel -> ['推进', '驱使', '激励', '驱策']
+['推进', '驱使', '激励', '驱策'] ['排名'] cosine similary 0.9549919
+['推进', '驱使', '激励', '驱策'] ['推进', '推动', '激励'] cosine similary 1.0000001
+['推进', '驱使', '激励', '驱策'] ['吸引'] cosine similary 0.960302
+['推进', '驱使', '激励', '驱策'] ['（使）腐烂'] cosine similary 0.95066905
+{'similary': 3.0000001192092896, 'center': array([287., 858.]), 'word': ['推进', '推动', '激励']}
+Time used: 1.478912353515625 Last word: propel
+Go Back
+WinRate: 100.00%, Win: 1, Total episodes: 1
+Start episode 2!
+moveable -> ['可移动', '动产']
+['可移动', '动产'] ['难以控制', '强迫'] cosine similary 0.95467937
+['可移动', '动产'] ['可移动', '活动'] cosine similary 1.0000001
+['可移动', '动产'] ['第三', '第三级'] cosine similary 0.9613481
+['可移动', '动产'] ['充满', '装满'] cosine similary 0.94945866
+{'similary': 3.0000001192092896, 'center': array([287.5, 858. ]), 'word': ['可移动', '活动']}
+Time used: 1.4865131378173828 Last word: moveable
+shove -> ['挤', '强使', '撞', '猛推', '推', '挤', '(Shove)人名', '(英)肖夫']
+['挤', '强使', '撞', '猛推', '推', '挤', '(Shove)人名', '(英)肖夫'] ['推'] cosine similary 1.0
+['挤', '强使', '撞', '猛推', '推', '挤', '(Shove)人名', '(英)肖夫'] ['（以旗子）标出', '标记'] cosine similary 0.96150744
+['挤', '强使', '撞', '猛推', '推', '挤', '(Shove)人名', '(英)肖夫'] ['落下'] cosine similary 0.9579794
+['挤', '强使', '撞', '猛推', '推', '挤', '(Shove)人名', '(英)肖夫'] ['建造', '建立'] cosine similary 0.9644462
+{'similary': 3.0, 'center': array([288., 722.]), 'word': ['推']}
+Time used: 1.5457849502563477 Last word: shove
+Can't translate take after sb. , Use Chat!
+Prompt: 选择符合take after sb.的中文翻译，只给出选项，无需解释
+A.不可能
+B.像某人
+C.不知道
+D.废料
+Answer: B.像某人。
+Time used: 2.4941940307617188 Last word: take after sb.
+patchwork -> ['拼缝物', '拼缀物', '混杂物']
+['拼缝物', '拼缀物', '混杂物'] ['拼凑东西', '混杂物'] cosine similary 1.0
+['拼缝物', '拼缀物', '混杂物'] ['大合唱'] cosine similary 0.9610768
+['拼缝物', '拼缀物', '混杂物'] ['（美国西部）郊狼', '小狼'] cosine similary 0.9515408
+['拼缝物', '拼缀物', '混杂物'] ['树叶(leaf复数形式）'] cosine similary 0.94899875
+{'similary': 3.0, 'center': array([289. , 723.5]), 'word': ['拼凑东西', '混杂物']}
+Time used: 1.4326865673065186 Last word: patchwork
+expanse -> ['宽阔', '广阔区域', '苍天', '膨胀扩张']
+['宽阔', '广阔区域', '苍天', '膨胀扩张'] ['肥皂'] cosine similary 0.9541561
+['宽阔', '广阔区域', '苍天', '膨胀扩张'] ['宽阔'] cosine similary 1.0000001
+['宽阔', '广阔区域', '苍天', '膨胀扩张'] ['增长'] cosine similary 0.95136744
+['宽阔', '广阔区域', '苍天', '膨胀扩张'] ['护身符', '避邪物'] cosine similary 0.9614201
+{'similary': 3.0000001192092896, 'center': array([288. , 859.5]), 'word': ['宽阔']}
+Time used: 1.5032107830047607 Last word: expanse
+scotch -> ['弄伤', '制止转动', '扑灭', '镇压', '刻痕']
+['弄伤', '制止转动', '扑灭', '镇压', '刻痕'] ['氢', '氢气'] cosine similary 0.9510406
+['弄伤', '制止转动', '扑灭', '镇压', '刻痕'] ['中途', '（展览', '娱乐场等..'] cosine similary 0.95280147
+['弄伤', '制止转动', '扑灭', '镇压', '刻痕'] ['废话', '胡说'] cosine similary 0.95503134
+['弄伤', '制止转动', '扑灭', '镇压', '刻痕'] ['（产自苏格兰一种）威土..'] cosine similary 0.9342206
+Prompt: 选择符合scotch的中文翻译，只给出选项，无需解释
+A.氢，氢气
+B.中途，（展览，娱乐场等的..
+C.废话，胡说
+D.（产自苏格兰的一种）威土..
+Answer: D.（产自苏格兰的一种）威土..。
+Time used: 2.977447271347046 Last word: scotch
+modernize -> ['使…现代化', '现代化']
+['使…现代化', '现代化'] ['猛烈责骂'] cosine similary 0.95505494
+['使…现代化', '现代化'] ['（使）现代化'] cosine similary 0.982228
+['使…现代化', '现代化'] ['推销', '兜售'] cosine similary 0.9366681
+['使…现代化', '现代化'] ['逮捕', '撰取'] cosine similary 0.9415162
+{'similary': 2.9822279810905457, 'center': array([296.5, 860. ]), 'word': ['（使）现代化']}
+Time used: 1.5369479656219482 Last word: modernize
+Go Back
+WinRate: 100.00%, Win: 2, Total episodes: 2
+Start episode 3!
+snowflake -> ['雪花', '雪片莲', '雪巫']
+['雪花', '雪片莲', '雪巫'] ['研究生'] cosine similary 0.95436615
+['雪花', '雪片莲', '雪巫'] ['酋长', '首领', '族长', '匪头'] cosine similary 0.95396584
+['雪花', '雪片莲', '雪巫'] ['昆虫学'] cosine similary 0.9472256
+['雪花', '雪片莲', '雪巫'] ['雪花'] cosine similary 1.0
+{'similary': 3.0, 'center': array([ 289. , 1134.5]), 'word': ['雪花']}
+Time used: 1.4320752620697021 Last word: snowflake
+Can't translate lingei , Use Chat!
+Prompt: 选择符合lingei的中文翻译，只给出选项，无需解释
+A.反复
+B.帮助
+C.慢跑
+D.逗留，留恋
+Answer: A.反复。
+Time used: 3.3782222270965576 Last word: lingei
+miniscule -> ['草写小字（等于minuscule）', '小字体']
+['草写小字（等于minuscule）', '小字体'] ['节约'] cosine similary 0.94427776
+['草写小字（等于minuscule）', '小字体'] ['极小'] cosine similary 0.9679335
+['草写小字（等于minuscule）', '小字体'] ['不同'] cosine similary 0.9458079
+['草写小字（等于minuscule）', '小字体'] ['印度', '印度教'] cosine similary 0.9543354
+Prompt: 选择符合miniscule的中文翻译，只给出选项，无需解释
+A.节约的
+B.极小的
+C.不同的
+D.印度的，印度教的
+Answer: B.极小的。
+Time used: 2.371929168701172 Last word: miniscule
+Can't translate at the forefront of , Use Chat!
+Prompt: 选择符合at the forefront of的中文翻译，只给出选项，无需解释
+A.(过去式）拍照
+B.难以开口
+C.效忠于
+D.处于最前列，进入重要地位
+Answer: D.处于最前列，进入重要地位。
+Time used: 2.884795904159546 Last word: at the forefront of
+straighten -> ['整顿', '使…改正', '使…挺直', '使…好转', '变直', '好转']
+['整顿', '使…改正', '使…挺直', '使…好转', '变直', '好转'] ['细看'] cosine similary 0.95371425
+['整顿', '使…改正', '使…挺直', '使…好转', '变直', '好转'] ['缓和', '减轻'] cosine similary 0.95056015
+['整顿', '使…改正', '使…挺直', '使…好转', '变直', '好转'] ['揭穿真面目', '证明为假'] cosine similary 0.9677972
+['整顿', '使…改正', '使…挺直', '使…好转', '变直', '好转'] ['（使）弄直', '伸直'] cosine similary 0.9738565
+Prompt: 选择符合straighten的中文翻译，只给出选项，无需解释
+A.细看
+B.缓和，减轻
+C.揭穿真面目，证明为假
+D.（使）弄直，伸直
+Answer: D.（使）弄直，伸直。
+Time used: 2.23880672454834 Last word: straighten
+penchant -> ['嗜好', '倾向']
+['嗜好', '倾向'] ['河道'] cosine similary 0.9634387
+['嗜好', '倾向'] ['茶壶'] cosine similary 0.9529749
+['嗜好', '倾向'] ['倾向', '爱好'] cosine similary 1.0
+['嗜好', '倾向'] ['操场', '游乐区'] cosine similary 0.9579328
+{'similary': 3.0, 'center': array([ 288., 1000.]), 'word': ['倾向', '爱好']}
+Time used: 1.3750066757202148 Last word: penchant
+symmetrical -> ['匀称', '对称']
+['匀称', '对称'] ['对称'] cosine similary 1.0
+['匀称', '对称'] ['体态苗条'] cosine similary 0.9150271
+['匀称', '对称'] ['粗糙'] cosine similary 0.95053244
+['匀称', '对称'] ['可怜'] cosine similary 0.93923664
+{'similary': 3.0, 'center': array([288., 723.]), 'word': ['对称']}
+Time used: 1.418297529220581 Last word: symmetrical
+Go Back
+WinRate: 66.67%, Win: 2, Total episodes: 3
+Start episode 4!
+Wait time 5.08s...
+Wait time 5.27s...
+Wait time 5.47s...
+Wait time 5.65s...
+Wait time 5.83s...
+namesake -> ['名义', '同名物', '同名人']
+['名义', '同名物', '同名人'] ['狂犬病', '恐水病'] cosine similary 0.9545576
+['名义', '同名物', '同名人'] ['百科全书'] cosine similary 0.94517994
+['名义', '同名物', '同名人'] ['相同姓名人'] cosine similary 0.9691904
+['名义', '同名物', '同名人'] ['双月刊'] cosine similary 0.9515418
+Prompt: 选择符合namesake的中文翻译，只给出选项，无需解释
+A.狂犬病，恐水病
+B.百科全书
+C.相同姓名的人
+D.双月刊
+Answer: C.相同姓名的人。
+Time used: 2.385828733444214 Last word: namesake
+conversational -> ['对话', '健谈']
+['对话', '健谈'] ['好斗', '不连贯'] cosine similary 0.9500666
+['对话', '健谈'] ['对话'] cosine similary 1.0
+['对话', '健谈'] ['藐视', '倔傲'] cosine similary 0.9533478
+['对话', '健谈'] ['杂食', '兴趣广泛'] cosine similary 0.95100594
+{'similary': 3.0, 'center': array([288., 859.]), 'word': ['对话']}
+Time used: 1.4369971752166748 Last word: conversational
+arctic -> ['北极', '极寒', '北极圈', '御寒防水套鞋', '(Arctic)人名', '(英)阿克蒂克']
+['北极', '极寒', '北极圈', '御寒防水套鞋', '(Arctic)人名', '(英)阿克蒂克'] ['二进位', '二元'] cosine similary 0.9608332
+['北极', '极寒', '北极圈', '御寒防水套鞋', '(Arctic)人名', '(英)阿克蒂克'] ['北极', '北极地区'] cosine similary 1.0
+['北极', '极寒', '北极圈', '御寒防水套鞋', '(Arctic)人名', '(英)阿克蒂克'] ['丑陋'] cosine similary 0.9566353
+['北极', '极寒', '北极圈', '御寒防水套鞋', '(Arctic)人名', '(英)阿克蒂克'] ['不活跃', '停用', '怠惰'] cosine similary 0.9631559
+{'similary': 3.0, 'center': array([288. , 859.5]), 'word': ['北极', '北极地区']}
+Time used: 1.4572620391845703 Last word: arctic
+upbringing -> ['教养', '养育', '抚育']
+['教养', '养育', '抚育'] ['抚育', '抚养', '教养'] cosine similary 1.0000001
+['教养', '养育', '抚育'] ['结婚'] cosine similary 0.95859784
+['教养', '养育', '抚育'] ['不精确'] cosine similary 0.94188994
+['教养', '养育', '抚育'] ['宽度'] cosine similary 0.956366
+{'similary': 3.0000001192092896, 'center': array([288. , 722.5]), 'word': ['抚育', '抚养', '教养']}
+Time used: 1.4345624446868896 Last word: upbringing
+wreak -> ['发泄', '报仇', '造成（巨大破坏或伤害）']
+['发泄', '报仇', '造成（巨大破坏或伤害）'] ['消灭'] cosine similary 0.96394724
+['发泄', '报仇', '造成（巨大破坏或伤害）'] ['监考'] cosine similary 0.95711774
+['发泄', '报仇', '造成（巨大破坏或伤害）'] ['使省悟', '解迷惑', '释疑', '矫.'] cosine similary 0.9630236
+['发泄', '报仇', '造成（巨大破坏或伤害）'] ['实施', '(报复)'] cosine similary 0.95946395
+Prompt: 选择符合wreak的中文翻译，只给出选项，无需解释
+A.消灭
+B.监考
+C.使省悟，解迷惑，释疑，矫.
+D.实施 (报复)
+Answer: D.实施 (报复)。
+Time used: 2.8664848804473877 Last word: wreak
+devious -> ['偏僻', '弯曲', '不光明正大']
+['偏僻', '弯曲', '不光明正大'] ['随后'] cosine similary 0.9581147
+['偏僻', '弯曲', '不光明正大'] ['感激'] cosine similary 0.95395124
+['偏僻', '弯曲', '不光明正大'] ['荣誉'] cosine similary 0.95488954
+['偏僻', '弯曲', '不光明正大'] ['迁回弯曲', '狡猾'] cosine similary 0.96222085
+{'similary': 2.962220847606659, 'center': array([ 288. , 1142.5]), 'word': ['迁回弯曲', '狡猾']}
+Time used: 1.429687738418579 Last word: devious
+fiance -> ['fiance']
+['fiance'] ['链接'] cosine similary 0.955957
+['fiance'] ['未婚夫'] cosine similary 0.94607043
+['fiance'] ['岩浆'] cosine similary 0.9550526
+['fiance'] ['外表'] cosine similary 0.9492348
+Prompt: 选择符合fiance的中文翻译，只给出选项，无需解释
+A.链接
+B.未婚夫
+C.岩浆
+D.外表
+Answer: B.未婚夫。
+Time used: 2.7830770015716553 Last word: fiance
+Go Back
+WinRate: 75.00%, Win: 3, Total episodes: 4
+Start episode 5!
+Wait time 5.05s...
+Wait time 5.22s...
+Wait time 5.40s...
+Wait time 5.58s...
+Wait time 5.76s...
+Wait time 5.94s...
+Can't translate make redundant , Use Chat!
+Prompt: 选择符合make redundant的中文翻译，只给出选项，无需解释
+A.（与...）保持联系
+B.昨晚
+C.向左转
+D.裁员
+Answer: D.裁员。
+Time used: 2.4923508167266846 Last word: make redundant
+saliva -> ['唾液', '涎', '(Saliva)人名', '(俄)萨利瓦']
+['唾液', '涎', '(Saliva)人名', '(俄)萨利瓦'] ['补药'] cosine similary 0.9486322
+['唾液', '涎', '(Saliva)人名', '(俄)萨利瓦'] ['唾液'] cosine similary 1.0000001
+['唾液', '涎', '(Saliva)人名', '(俄)萨利瓦'] ['骏马'] cosine similary 0.9448238
+['唾液', '涎', '(Saliva)人名', '(俄)萨利瓦'] ['勇敢', '不凡能力'] cosine similary 0.9529619
+{'similary': 3.0000001192092896, 'center': array([288.5, 860. ]), 'word': ['唾液']}
+Time used: 1.4357702732086182 Last word: saliva
+flatten -> ['击败', '摧毁', '使……平坦', '变平', '变单调', '(Flatten)人名', '(德)弗拉滕']
+['击败', '摧毁', '使……平坦', '变平', '变单调', '(Flatten)人名', '(德)弗拉滕'] ['加', '增加'] cosine similary 0.95451283
+['击败', '摧毁', '使……平坦', '变平', '变单调', '(Flatten)人名', '(德)弗拉滕'] ['撕碎'] cosine similary 0.95819724
+['击败', '摧毁', '使……平坦', '变平', '变单调', '(Flatten)人名', '(德)弗拉滕'] ['使人心碎'] cosine similary 0.9618322
+['击败', '摧毁', '使……平坦', '变平', '变单调', '(Flatten)人名', '(德)弗拉滕'] ['把..弄平'] cosine similary 0.95594513
+Prompt: 选择符合flatten的中文翻译，只给出选项，无需解释
+A.加，增加
+B.撕碎
+C.使人心碎
+D.把..弄平
+Answer: D.把..弄平。
+Time used: 2.542496919631958 Last word: flatten
+topmost -> ['最高', '顶端']
+['最高', '顶端'] ['不引人注意'] cosine similary 0.946937
+['最高', '顶端'] ['隐身', '隐形'] cosine similary 0.9574852
+['最高', '顶端'] ['意气相投', '令人愉快'] cosine similary 0.93841225
+['最高', '顶端'] ['最高'] cosine similary 1.0
+{'similary': 3.0, 'center': array([ 288., 1138.]), 'word': ['最高']}
+Time used: 1.4114327430725098 Last word: topmost
+mote -> ['尘埃', '微粒', '小错', '(Mote)人名', '(英、法、塞)莫特']
+['尘埃', '微粒', '小错', '(Mote)人名', '(英、法、塞)莫特'] ['考试'] cosine similary 0.9666555
+['尘埃', '微粒', '小错', '(Mote)人名', '(英、法、塞)莫特'] ['营养学家'] cosine similary 0.9522121
+['尘埃', '微粒', '小错', '(Mote)人名', '(英、法、塞)莫特'] ['沟通方式'] cosine similary 0.9541216
+['尘埃', '微粒', '小错', '(Mote)人名', '(英、法、塞)莫特'] ['微粒', '微尘'] cosine similary 1.0
+{'similary': 3.0, 'center': array([ 288., 1143.]), 'word': ['微粒', '微尘']}
+Time used: 1.4395291805267334 Last word: mote
+recite -> ['背诵', '叙述', '列举', '背诵', '叙述']
+['背诵', '叙述', '列举', '背诵', '叙述'] ['背诵'] cosine similary 1.0
+['背诵', '叙述', '列举', '背诵', '叙述'] ['出现'] cosine similary 0.95092624
+['背诵', '叙述', '列举', '背诵', '叙述'] ['恶化'] cosine similary 0.95641416
+['背诵', '叙述', '列举', '背诵', '叙述'] ['犹豫'] cosine similary 0.94943255
+{'similary': 3.0, 'center': array([289. , 722.5]), 'word': ['背诵']}
+Time used: 1.4334702491760254 Last word: recite
+Can't translate affection for , Use Chat!
+Prompt: 选择符合affection for的中文翻译，只给出选项，无需解释
+A.聚集
+B.游泳
+C.以...为例
+D.对..的感情
+Answer: D.对..的感情。
+Time used: 2.3836607933044434 Last word: affection for
+Go Back
+WinRate: 80.00%, Win: 4, Total episodes: 5
+Start episode 6!
+Wait time 5.14s...
+Wait time 5.32s...
+Wait time 5.49s...
+Wait time 5.69s...
+nostalgic -> ['怀旧', '乡愁']
+['怀旧', '乡愁'] ['乡愁', '怀旧'] cosine similary 0.99999994
+['怀旧', '乡愁'] ['热心', '热烈'] cosine similary 0.96043175
+['怀旧', '乡愁'] ['可认识', '可辨认', '可公..'] cosine similary 0.9352482
+['怀旧', '乡愁'] ['伊斯兰教', '穆斯林'] cosine similary 0.940397
+{'similary': 2.9999999403953552, 'center': array([288.5, 722.5]), 'word': ['乡愁', '怀旧']}
+Time used: 1.4262371063232422 Last word: nostalgic
+fluently -> ['流利地', '通畅地']
+['流利地', '通畅地'] ['流利地', '流畅地'] cosine similary 0.99999994
+['流利地', '通畅地'] ['现象上地'] cosine similary 0.9637536
+['流利地', '通畅地'] ['向内', '向里'] cosine similary 0.9488741
+['流利地', '通畅地'] ['注意地'] cosine similary 0.97293156
+{'similary': 2.9999999403953552, 'center': array([288. , 722.5]), 'word': ['流利地', '流畅地']}
+Time used: 1.425342082977295 Last word: fluently
+auctioneer -> ['拍卖', '拍卖商']
+['拍卖', '拍卖商'] ['层叠'] cosine similary 0.95756954
+['拍卖', '拍卖商'] ['新手', '新兵', '新球员'] cosine similary 0.95830375
+['拍卖', '拍卖商'] ['土耳其', '(旧称)'] cosine similary 0.95916253
+['拍卖', '拍卖商'] ['拍卖师'] cosine similary 0.9852558
+{'similary': 2.985255777835846, 'center': array([ 288., 1135.]), 'word': ['拍卖师']}
+Time used: 1.4388878345489502 Last word: auctioneer
+spurious -> ['假', '伪造', '欺骗']
+['假', '伪造', '欺骗'] ['撩人', '沉溺酒色', '骄奢..'] cosine similary 0.96181625
+['假', '伪造', '欺骗'] ['不能识别'] cosine similary 0.93975663
+['假', '伪造', '欺骗'] ['假', '伪造', '欺骗'] cosine similary 1.0
+['假', '伪造', '欺骗'] ['新鲜'] cosine similary 0.959296
+{'similary': 3.0, 'center': array([288., 998.]), 'word': ['假', '伪造', '欺骗']}
+Time used: 1.4355549812316895 Last word: spurious
+centenary -> ['一百年', '百年纪念', '一百年']
+['一百年', '百年纪念', '一百年'] ['长城'] cosine similary 0.9373342
+['一百年', '百年纪念', '一百年'] ['一百年'] cosine similary 0.99999994
+['一百年', '百年纪念', '一百年'] ['叉', '餐叉'] cosine similary 0.9457121
+['一百年', '百年纪念', '一百年'] ['(由汽船、汽车等牵引在空.'] cosine similary 0.9466269
+{'similary': 2.9999999403953552, 'center': array([289., 860.]), 'word': ['一百年']}
+Time used: 1.427548885345459 Last word: centenary
+condone -> ['宽恕', '赦免']
+['宽恕', '赦免'] ['欣赏'] cosine similary 0.9512134
+['宽恕', '赦免'] ['宽恕'] cosine similary 0.99999994
+['宽恕', '赦免'] ['出席', '到场'] cosine similary 0.9575544
+['宽恕', '赦免'] ['使燃烧', '激怒', '(某人)'] cosine similary 0.95880264
+{'similary': 2.9999999403953552, 'center': array([288., 860.]), 'word': ['宽恕']}
+Time used: 1.4164879322052002 Last word: condone
+Can't translate Great Barrier Reef , Use Chat!
+Prompt: 选择符合Great Barrier Reef的中文翻译，只给出选项，无需解释
+A.接近，有权使用
+B.大堡礁
+C.改变主意
+D.出动
+Answer: B.大堡礁。
+Time used: 2.7141523361206055 Last word: Great Barrier Reef
+Go Back
+WinRate: 83.33%, Win: 5, Total episodes: 6
+Start episode 7!
+Wait time 5.16s...
+Wait time 5.34s...
+Wait time 5.52s...
+Wait time 5.70s...
+Wait time 5.88s...
+Can't translate take sth.into account , Use Chat!
+Prompt: 选择符合take sth.into account的中文翻译，只给出选项，无需解释
+A.干货，干制食品
+B.考虑到某事
+C.小心！
+D.响应号召
+Answer: B.考虑到某事。
+Time used: 3.2148115634918213 Last word: take sth.into account
+Can't translate take sth. into account , Use Chat!
+Prompt: 选择符合take sth. into account的中文翻译，只给出选项，无需解释
+A.干货，干制食品
+B.考虑到某事
+C.小心!
+D.响应号召
+Answer: B.考虑到某事。
+Time used: 2.721439838409424 Last word: take sth. into account
+merciless -> ['残忍', '无慈悲心']
+['残忍', '无慈悲心'] ['看', '视觉'] cosine similary 0.94347364
+['残忍', '无慈悲心'] ['个人', '私人'] cosine similary 0.9576191
+['残忍', '无慈悲心'] ['无慈悲心', '残忍'] cosine similary 1.0
+['残忍', '无慈悲心'] ['死板', '顽固', '墨守成规.'] cosine similary 0.9489894
+{'similary': 3.0, 'center': array([ 288. , 1003.5]), 'word': ['无慈悲心', '残忍']}
+Time used: 1.4409058094024658 Last word: merciless
+bullion -> ['金银', '纯金', '金银块', '(Bullion)人名', '(法)比利翁']
+['金银', '纯金', '金银块', '(Bullion)人名', '(法)比利翁'] ['巫师', '萨满教道士', '僧人'] cosine similary 0.96503574
+['金银', '纯金', '金银块', '(Bullion)人名', '(法)比利翁'] ['研究班'] cosine similary 0.9582371
+['金银', '纯金', '金银块', '(Bullion)人名', '(法)比利翁'] ['（造币用）金块'] cosine similary 0.9586937
+['金银', '纯金', '金银块', '(Bullion)人名', '(法)比利翁'] ['意见', '看法', '观点'] cosine similary 0.95949095
+Prompt: 选择符合bullion的中文翻译，只给出选项，无需解释
+A.巫师，萨满教的道士，僧人
+B.研究班
+C.（造币用）金块
+D.意见，看法，观点
+Answer: C.（造币用）金块。
+Time used: 2.4397215843200684 Last word: bullion
+enigmatic -> ['神秘', '高深莫测', '谜一般']
+['神秘', '高深莫测', '谜一般'] ['激动'] cosine similary 0.9540719
+['神秘', '高深莫测', '谜一般'] ['宽'] cosine similary 0.93471485
+['神秘', '高深莫测', '谜一般'] ['神秘', '高深莫测', '谜一'] cosine similary 1.0
+['神秘', '高深莫测', '谜一般'] ['燃烧着'] cosine similary 0.9517203
+{'similary': 3.0, 'center': array([280.5, 998. ]), 'word': ['神秘', '高深莫测', '谜一']}
+Time used: 1.4565832614898682 Last word: enigmatic
+Can't translate draw sth. out of sth , Use Chat!
+Prompt: 选择符合draw sth. out of sth的中文翻译，只给出选项，无需解释
+A.因...受人尊敬
+B.（使）无进展
+C.提取，支取
+D.（兴奋地）盼望，期待
+Answer: C.提取，支取。
+Time used: 2.2427499294281006 Last word: draw sth. out of sth
+meditate -> ['考虑', '计划', '企图', '冥想', '沉思']
+['考虑', '计划', '企图', '冥想', '沉思'] ['欺骗', '遮眼', '蒙蔽'] cosine similary 0.9621319
+['考虑', '计划', '企图', '冥想', '沉思'] ['考虑', '沉思', '冥想'] cosine similary 1.0
+['考虑', '计划', '企图', '冥想', '沉思'] ['出口', '输出'] cosine similary 0.9564531
+['考虑', '计划', '企图', '冥想', '沉思'] ['闲荡', '浪费时间'] cosine similary 0.9614397
+{'similary': 3.0, 'center': array([288.  , 858.75]), 'word': ['考虑', '沉思', '冥想']}
+Time used: 1.4724006652832031 Last word: meditate
+stout -> ['结实', '矮胖', '勇敢', '激烈', '矮胖子', '烈性啤酒', '(Stout)人名', '(英)斯托特']
+['结实', '矮胖', '勇敢', '激烈', '矮胖子', '烈性啤酒', '(Stout)人名', '(英)斯托特'] ['部落'] cosine similary 0.9555948
+['结实', '矮胖', '勇敢', '激烈', '矮胖子', '烈性啤酒', '(Stout)人名', '(英)斯托特'] ['假', '伪造', '欺骗'] cosine similary 0.9581429
+['结实', '矮胖', '勇敢', '激烈', '矮胖子', '烈性啤酒', '(Stout)人名', '(英)斯托特'] ['无线索'] cosine similary 0.9620207
+['结实', '矮胖', '勇敢', '激烈', '矮胖子', '烈性啤酒', '(Stout)人名', '(英)斯托特'] ['结实'] cosine similary 1.0
+{'similary': 3.0, 'center': array([ 288., 1137.]), 'word': ['结实']}
+Time used: 1.4505822658538818 Last word: stout
+Go Back
+WinRate: 85.71%, Win: 6, Total episodes: 7
+Start episode 8!
+Wait time 5.07s...
+Wait time 5.26s...
+Wait time 5.44s...
+Wait time 5.62s...
+Wait time 5.81s...
+Wait time 5.99s...
+unwind -> ['放松', '解开', '[计]', '展开', '放松', '解开', '松开']
+['放松', '解开', '[计]', '展开', '放松', '解开', '松开'] ['恢复'] cosine similary 0.95856994
+['放松', '解开', '[计]', '展开', '放松', '解开', '松开'] ['对...入迷'] cosine similary 0.9358595
+['放松', '解开', '[计]', '展开', '放松', '解开', '松开'] ['展开', '放松', '伸直'] cosine similary 1.0000001
+['放松', '解开', '[计]', '展开', '放松', '解开', '松开'] ['推断'] cosine similary 0.9597248
+{'similary': 3.0000001192092896, 'center': array([ 288.75, 1001.25]), 'word': ['展开', '放松', '伸直']}
+Time used: 1.4337828159332275 Last word: unwind
+powerhouse -> ['精力旺盛人', '动力室', '发电所']
+['精力旺盛人', '动力室', '发电所'] ['杰作'] cosine similary 0.95798564
+['精力旺盛人', '动力室', '发电所'] ['充沛', '茂盛', '茂密'] cosine similary 0.944017
+['精力旺盛人', '动力室', '发电所'] ['强大集团', '动力室', '发电'] cosine similary 0.99999994
+['精力旺盛人', '动力室', '发电所'] ['伦敦塔桥'] cosine similary 0.95996404
+{'similary': 2.9999999403953552, 'center': array([283.5, 996. ]), 'word': ['强大集团', '动力室', '发电']}
+Time used: 1.4535319805145264 Last word: powerhouse
+Can't translate moral dilemma , Use Chat!
+Prompt: 选择符合moral dilemma的中文翻译，只给出选项，无需解释
+A.起初，首先
+B.在通话中
+C.道德两难处境
+D.搬家公司
+Answer: C.道德两难处境。
+Time used: 2.190920352935791 Last word: moral dilemma
+mogul -> ['有权势人', '显要人物']
+['有权势人', '显要人物'] ['显要人物', '权势之人', '小雪..'] cosine similary 1.0
+['有权势人', '显要人物'] ['放射性', '放射现象'] cosine similary 0.96134573
+['有权势人', '显要人物'] ['大失败', '惨败'] cosine similary 0.9556517
+['有权势人', '显要人物'] ['前置词', '介词'] cosine similary 0.9553329
+{'similary': 3.0, 'center': array([286., 722.]), 'word': ['显要人物', '权势之人', '小雪..']}
+Time used: 1.4484758377075195 Last word: mogul
+inequity -> ['不公平', '不公正']
+['不公平', '不公正'] ['不公平'] cosine similary 1.0
+['不公平', '不公正'] ['豆浆'] cosine similary 0.94918454
+['不公平', '不公正'] ['皮重'] cosine similary 0.94119865
+['不公平', '不公正'] ['（佛教）经'] cosine similary 0.9520862
+{'similary': 3.0, 'center': array([288., 723.]), 'word': ['不公平']}
+Time used: 1.4101231098175049 Last word: inequity
+wharf -> ['使靠码头', '为…建码头', '把货卸在码头上', '靠码头', '码头', '停泊处']
+['使靠码头', '为…建码头', '把货卸在码头上', '靠码头', '码头', '停泊处'] ['码头'] cosine similary 0.99999994
+['使靠码头', '为…建码头', '把货卸在码头上', '靠码头', '码头', '停泊处'] ['制真菌素', '【药】制霉菌素'] cosine similary 0.9660467
+['使靠码头', '为…建码头', '把货卸在码头上', '靠码头', '码头', '停泊处'] ['大豆'] cosine similary 0.95512116
+['使靠码头', '为…建码头', '把货卸在码头上', '靠码头', '码头', '停泊处'] ['独奏者', '独唱者', '［空］单.'] cosine similary 0.96822953
+{'similary': 2.9999999403953552, 'center': array([288., 722.]), 'word': ['码头']}
+Time used: 1.4415295124053955 Last word: wharf
+budge -> ['挪动', '微微移动', '改变态度或意见', '服从', '使让步', '移动', '使改变态度或意见', '羔羊皮', '(Budge)人名', '(英)巴奇']
+['挪动', '微微移动', '改变态度或意见', '服从', '使让步', '移动', '使改变态度或意见', '羔羊皮', '(Budge)人名', '(英)巴奇'] ['救', '救助'] cosine similary 0.95826083
+['挪动', '微微移动', '改变态度或意见', '服从', '使让步', '移动', '使改变态度或意见', '羔羊皮', '(Budge)人名', '(英)巴奇'] ['贬低'] cosine similary 0.9432612
+['挪动', '微微移动', '改变态度或意见', '服从', '使让步', '移动', '使改变态度或意见', '羔羊皮', '(Budge)人名', '(英)巴奇'] ['移动一点'] cosine similary 0.9717708
+['挪动', '微微移动', '改变态度或意见', '服从', '使让步', '移动', '使改变态度或意见', '羔羊皮', '(Budge)人名', '(英)巴奇'] ['无存货', '已脱销'] cosine similary 0.959834
+{'similary': 2.9717708230018616, 'center': array([ 288., 1003.]), 'word': ['移动一点']}
+Time used: 1.4809272289276123 Last word: budge
+Go Back
+WinRate: 87.50%, Win: 7, Total episodes: 8
+Start episode 9!
+Wait time 5.10s...
+Wait time 5.28s...
+Wait time 5.46s...
+Wait time 5.64s...
+Wait time 5.83s...
+welder -> ['焊接工', '(Welder)人名', '(瑞典)韦尔德']
+['焊接工', '(Welder)人名', '(瑞典)韦尔德'] ['半导体'] cosine similary 0.94557357
+['焊接工', '(Welder)人名', '(瑞典)韦尔德'] ['茶', '(叶)'] cosine similary 0.961472
+['焊接工', '(Welder)人名', '(瑞典)韦尔德'] ['缺口', '裂缝'] cosine similary 0.9515328
+['焊接工', '(Welder)人名', '(瑞典)韦尔德'] ['焊接工'] cosine similary 1.0
+{'similary': 3.0, 'center': array([ 289., 1138.]), 'word': ['焊接工']}
+Time used: 1.424988031387329 Last word: welder
+chlorophyll -> ['[植][生化]', '叶绿素']
+['[植][生化]', '叶绿素'] ['MP3播放器'] cosine similary 0.9550159
+['[植][生化]', '叶绿素'] ['绝望', '(境地)'] cosine similary 0.9519234
+['[植][生化]', '叶绿素'] ['叶绿素'] cosine similary 1.0000001
+['[植][生化]', '叶绿素'] ['改造', '修改'] cosine similary 0.9456515
+{'similary': 3.0000001192092896, 'center': array([288., 997.]), 'word': ['叶绿素']}
+Time used: 1.4270493984222412 Last word: chlorophyll
+saliva -> ['唾液', '涎', '(Saliva)人名', '(俄)萨利瓦']
+['唾液', '涎', '(Saliva)人名', '(俄)萨利瓦'] ['唾液'] cosine similary 1.0000001
+['唾液', '涎', '(Saliva)人名', '(俄)萨利瓦'] ['梯子', '杖', '梯级'] cosine similary 0.96625924
+['唾液', '涎', '(Saliva)人名', '(俄)萨利瓦'] ['约旦'] cosine similary 0.94207025
+['唾液', '涎', '(Saliva)人名', '(俄)萨利瓦'] ['政权'] cosine similary 0.93855643
+{'similary': 3.0000001192092896, 'center': array([288.5, 722. ]), 'word': ['唾液']}
+Time used: 1.4275987148284912 Last word: saliva
+hefty -> ['重', '肌肉发达', '异常大', '强有力地', '非常', '体格健壮人', '(Hefty)人名', '(英)赫夫蒂', '(法)埃夫蒂']
+['重', '肌肉发达', '异常大', '强有力地', '非常', '体格健壮人', '(Hefty)人名', '(英)赫夫蒂', '(法)埃夫蒂'] ['光滑'] cosine similary 0.9547063
+['重', '肌肉发达', '异常大', '强有力地', '非常', '体格健壮人', '(Hefty)人名', '(英)赫夫蒂', '(法)埃夫蒂'] ['构造', '建筑', '地壳构造.'] cosine similary 0.96057737
+['重', '肌肉发达', '异常大', '强有力地', '非常', '体格健壮人', '(Hefty)人名', '(英)赫夫蒂', '(法)埃夫蒂'] ['重', '肌肉发达', '异常大.'] cosine similary 0.99999994
+['重', '肌肉发达', '异常大', '强有力地', '非常', '体格健壮人', '(Hefty)人名', '(英)赫夫蒂', '(法)埃夫蒂'] ['热衷', '致力于...'] cosine similary 0.9583744
+{'similary': 2.9999999403953552, 'center': array([284.5, 998. ]), 'word': ['重', '肌肉发达', '异常大.']}
+Time used: 1.4995067119598389 Last word: hefty
+timepiece -> ['钟等各种计时器']
+['钟等各种计时器'] ['系列剧'] cosine similary 0.93204355
+['钟等各种计时器'] ['排泄物', '粪便'] cosine similary 0.9414063
+['钟等各种计时器'] ['【金融】透支', '【金融】透...'] cosine similary 0.96247005
+['钟等各种计时器'] ['钟'] cosine similary 0.92074597
+{'similary': 2.9207459688186646, 'center': array([ 288., 1140.]), 'word': ['钟']}
+Time used: 1.4269130229949951 Last word: timepiece
+droplet -> ['小滴', '微滴']
+['小滴', '微滴'] ['豆角', '四季豆'] cosine similary 0.9508524
+['小滴', '微滴'] ['片段'] cosine similary 0.95199317
+['小滴', '微滴'] ['袋'] cosine similary 0.9441445
+['小滴', '微滴'] ['小滴', '微滴'] cosine similary 1.0
+{'similary': 3.0, 'center': array([ 287., 1135.]), 'word': ['小滴', '微滴']}
+Time used: 1.4131815433502197 Last word: droplet
+tiring -> ['累人', '麻烦', '无聊', '引起疲劳', '厌倦', '使劳累（tireing形式）', '感到疲倦']
+['累人', '麻烦', '无聊', '引起疲劳', '厌倦', '使劳累（tireing形式）', '感到疲倦'] ['累人'] cosine similary 0.99999994
+['累人', '麻烦', '无聊', '引起疲劳', '厌倦', '使劳累（tireing形式）', '感到疲倦'] ['不美'] cosine similary 0.95461637
+['累人', '麻烦', '无聊', '引起疲劳', '厌倦', '使劳累（tireing形式）', '感到疲倦'] ['谚语'] cosine similary 0.95647997
+['累人', '麻烦', '无聊', '引起疲劳', '厌倦', '使劳累（tireing形式）', '感到疲倦'] ['杂食', '兴趣广泛'] cosine similary 0.9626273
+{'similary': 2.9999999403953552, 'center': array([289., 722.]), 'word': ['累人']}
+Time used: 1.453538179397583 Last word: tiring
+Go Back
+WinRate: 88.89%, Win: 8, Total episodes: 9
+Start episode 10!
+pent -> ['被关闭', '郁积', '单斜顶棚', '把…关于围栏', '把…关起来', '囚禁（pen过去分词）']
+['被关闭', '郁积', '单斜顶棚', '把…关于围栏', '把…关起来', '囚禁（pen过去分词）'] ['无法接受'] cosine similary 0.96176803
+['被关闭', '郁积', '单斜顶棚', '把…关于围栏', '把…关起来', '囚禁（pen过去分词）'] ['不愿意', '不情愿', '勉强.'] cosine similary 0.95974165
+['被关闭', '郁积', '单斜顶棚', '把…关于围栏', '把…关起来', '囚禁（pen过去分词）'] ['现实', '精明', '顽固'] cosine similary 0.9494759
+['被关闭', '郁积', '单斜顶棚', '把…关于围栏', '把…关起来', '囚禁（pen过去分词）'] ['被囚禁', '抑制'] cosine similary 0.97059715
+Prompt: 选择符合pent的中文翻译，只给出选项，无需解释
+A.无法接受的
+B.不愿意的，不情愿的，勉强.
+C.现实的，精明的，顽固的
+D.被囚禁的，抑制的
+Answer: B.不愿意的，不情愿的，勉强.。
+Time used: 2.7535228729248047 Last word: pent
+contemplative -> ['沉思', '冥想', '默想']
+['沉思', '冥想', '默想'] ['沉思'] cosine similary 1.0
+['沉思', '冥想', '默想'] ['未开发'] cosine similary 0.94406986
+['沉思', '冥想', '默想'] ['气候'] cosine similary 0.9538633
+['沉思', '冥想', '默想'] ['各种各样', '杂七杂八'] cosine similary 0.9431581
+{'similary': 3.0, 'center': array([288., 723.]), 'word': ['沉思']}
+Time used: 1.4249165058135986 Last word: contemplative
+backfire -> ['放出逆火', '预先放火', '产生出乎意料及事与愿违结果', '逆火', '回火']
+['放出逆火', '预先放火', '产生出乎意料及事与愿违结果', '逆火', '回火'] ['膨胀'] cosine similary 0.9534356
+['放出逆火', '预先放火', '产生出乎意料及事与愿违结果', '逆火', '回火'] ['取款'] cosine similary 0.9554482
+['放出逆火', '预先放火', '产生出乎意料及事与愿违结果', '逆火', '回火'] ['放出逆火', '产生出乎意料及.'] cosine similary 1.0
+['放出逆火', '预先放火', '产生出乎意料及事与愿违结果', '逆火', '回火'] ['保证', '确保'] cosine similary 0.9580706
+{'similary': 3.0, 'center': array([283., 998.]), 'word': ['放出逆火', '产生出乎意料及.']}
+Time used: 1.436905860900879 Last word: backfire
+monochromatic -> ['单色']
+['单色'] ['被免除'] cosine similary 0.9332162
+['单色'] ['显眼'] cosine similary 0.9387884
+['单色'] ['好冒险', '大胆'] cosine similary 0.94578534
+['单色'] ['【物】单色'] cosine similary 0.96003145
+{'similary': 2.9600314497947693, 'center': array([ 294.5, 1135. ]), 'word': ['【物】单色']}
+Time used: 1.4149231910705566 Last word: monochromatic
+kilo -> ['千克', '(Kilo)人名', '(阿拉伯)基洛']
+['千克', '(Kilo)人名', '(阿拉伯)基洛'] ['公斤', '(等于kilogram)'] cosine similary 0.97241366
+['千克', '(Kilo)人名', '(阿拉伯)基洛'] ['立法者'] cosine similary 0.94862074
+['千克', '(Kilo)人名', '(阿拉伯)基洛'] ['同时', '其间'] cosine similary 0.9547592
+['千克', '(Kilo)人名', '(阿拉伯)基洛'] ['不规律', '不规则', '不整齐'] cosine similary 0.94812155
+Prompt: 选择符合kilo的中文翻译，只给出选项，无需解释
+A.公斤 (等于kilogram)
+B.立法者
+C.同时；其间
+D.不规律，不规则，不整齐
+Answer: A.公斤 (等于kilogram)
+Time used: 3.075575113296509 Last word: kilo
+loophole -> ['漏洞', '枪眼', '换气孔', '射弹孔']
+['漏洞', '枪眼', '换气孔', '射弹孔'] ['<英>初级律师'] cosine similary 0.94516695
+['漏洞', '枪眼', '换气孔', '射弹孔'] ['匆忙'] cosine similary 0.9500289
+['漏洞', '枪眼', '换气孔', '射弹孔'] ['漏洞'] cosine similary 1.0
+['漏洞', '枪眼', '换气孔', '射弹孔'] ['柄'] cosine similary 0.9468645
+{'similary': 3.0, 'center': array([288.5, 998. ]), 'word': ['漏洞']}
+Time used: 1.4149773120880127 Last word: loophole
+be annoyed with -> ['对……感到恼怒：感到对某人或某事感到生气、烦恼或不满。']
+['对……感到恼怒：感到对某人或某事感到生气、烦恼或不满。'] ['被认为是'] cosine similary 0.9276886
+['对……感到恼怒：感到对某人或某事感到生气、烦恼或不满。'] ['缺席'] cosine similary 0.92098814
+['对……感到恼怒：感到对某人或某事感到生气、烦恼或不满。'] ['被...惹恼'] cosine similary 0.9436912
+['对……感到恼怒：感到对某人或某事感到生气、烦恼或不满。'] ['踢足球'] cosine similary 0.9339197
+Prompt: 选择符合be annoyed with的中文翻译，只给出选项，无需解释
+A.被认为是
+B.缺席
+C.被...惹恼
+D.踢足球
+Answer: C.被...惹恼
+Time used: 2.938486099243164 Last word: be annoyed with
+Go Back
+WinRate: 80.00%, Win: 8, Total episodes: 10
+Start episode 11!
+companionship -> ['友谊', '陪伴', '交谊']
+['友谊', '陪伴', '交谊'] ['慌乱', '狼狈', '混乱'] cosine similary 0.95900005
+['友谊', '陪伴', '交谊'] ['古生物学'] cosine similary 0.93168193
+['友谊', '陪伴', '交谊'] ['（全天或长时间营业）便.'] cosine similary 0.9291779
+['友谊', '陪伴', '交谊'] ['友谊'] cosine similary 1.0
+{'similary': 3.0, 'center': array([ 288.5, 1136. ]), 'word': ['友谊']}
+Time used: 1.4110767841339111 Last word: companionship
+lurk -> ['潜伏', '潜藏', '埋伏', '潜伏', '埋伏']
+['潜伏', '潜藏', '埋伏', '潜伏', '埋伏'] ['勤奋'] cosine similary 0.95298314
+['潜伏', '潜藏', '埋伏', '潜伏', '埋伏'] ['潜伏', '潜行'] cosine similary 1.0000001
+['潜伏', '潜藏', '埋伏', '潜伏', '埋伏'] ['野兽'] cosine similary 0.9570752
+['潜伏', '潜藏', '埋伏', '潜伏', '埋伏'] ['甜蜜', '可爱'] cosine similary 0.96115667
+{'similary': 3.0000001192092896, 'center': array([287.5, 860. ]), 'word': ['潜伏', '潜行']}
+Time used: 1.4395182132720947 Last word: lurk
+demolish -> ['拆除', '破坏', '毁坏', '推翻', '驳倒']
+['拆除', '破坏', '毁坏', '推翻', '驳倒'] ['动词词colour过去式和过.'] cosine similary 0.9344946
+['拆除', '破坏', '毁坏', '推翻', '驳倒'] ['复苏', '复兴'] cosine similary 0.9619977
+['拆除', '破坏', '毁坏', '推翻', '驳倒'] ['拆毁', '(建筑物等)'] cosine similary 0.9757368
+['拆除', '破坏', '毁坏', '推翻', '驳倒'] ['残杀', '（大规模）屠杀', '使..'] cosine similary 0.953442
+{'similary': 0.9757368, 'center': array([ 281., 1000.]), 'word': ['拆毁', '(建筑物等)']}
+Time used: 1.4635839462280273 Last word: demolish
+lacquer -> ['涂漆', '使表面光泽', '漆', '漆器']
+['涂漆', '使表面光泽', '漆', '漆器'] ['漆器'] cosine similary 1.0
+['涂漆', '使表面光泽', '漆', '漆器'] ['（体力）劳动'] cosine similary 0.9621825
+['涂漆', '使表面光泽', '漆', '漆器'] ['超自然物', '神奇人物', '不可.'] cosine similary 0.9568437
+['涂漆', '使表面光泽', '漆', '漆器'] ['-群', '空军中队', '骑兵中队'] cosine similary 0.9592798
+{'similary': 3.0, 'center': array([288. , 722.5]), 'word': ['漆器']}
+Time used: 1.4415497779846191 Last word: lacquer
+panacea -> ['灵丹妙药', '万能药']
+['灵丹妙药', '万能药'] ['十月'] cosine similary 0.94566387
+['灵丹妙药', '万能药'] ['奶奶', '外婆'] cosine similary 0.9470083
+['灵丹妙药', '万能药'] ['罪犯', '犯人'] cosine similary 0.9511234
+['灵丹妙药', '万能药'] ['灵丹妙药', '万能药'] cosine similary 1.0
+{'similary': 3.0, 'center': array([ 288.5, 1134.5]), 'word': ['灵丹妙药', '万能药']}
+Time used: 1.4309709072113037 Last word: panacea
+agitation -> ['激动', '搅动', '煽动', '烦乱']
+['激动', '搅动', '煽动', '烦乱'] ['远足', '徒步旅行'] cosine similary 0.9585661
+['激动', '搅动', '煽动', '烦乱'] ['(宗教', '种族、政治等)'] cosine similary 0.9556576
+['激动', '搅动', '煽动', '烦乱'] ['鳄鱼'] cosine similary 0.9598143
+['激动', '搅动', '煽动', '烦乱'] ['摇动'] cosine similary 0.97664696
+{'similary': 0.97664696, 'center': array([ 288., 1136.]), 'word': ['摇动']}
+Time used: 1.4474375247955322 Last word: agitation
+dynamism -> ['活力', '动态', '物力论', '推动力', '精神动力作用']
+['活力', '动态', '物力论', '推动力', '精神动力作用'] ['依赖'] cosine similary 0.9604017
+['活力', '动态', '物力论', '推动力', '精神动力作用'] ['精力'] cosine similary 0.9757362
+['活力', '动态', '物力论', '推动力', '精神动力作用'] ['声乐作品'] cosine similary 0.9597349
+['活力', '动态', '物力论', '推动力', '精神动力作用'] ['一百年'] cosine similary 0.94437575
+{'similary': 0.9757362, 'center': array([288., 860.]), 'word': ['精力']}
+Time used: 1.4411931037902832 Last word: dynamism
+Go Back
+WinRate: 81.82%, Win: 9, Total episodes: 11
+Start episode 12!
+Wait time 5.03s...
+Wait time 5.21s...
+Wait time 5.39s...
+Wait time 5.56s...
+Wait time 5.74s...
+Wait time 5.91s...
+lantern -> ['灯笼', '提灯', '灯笼式天窗']
+['灯笼', '提灯', '灯笼式天窗'] ['场面', '情景'] cosine similary 0.9543401
+['灯笼', '提灯', '灯笼式天窗'] ['规划者', '计划者'] cosine similary 0.9494191
+['灯笼', '提灯', '灯笼式天窗'] ['灯笼'] cosine similary 0.99999994
+['灯笼', '提灯', '灯笼式天窗'] ['陈腐思想', '陈词滥调'] cosine similary 0.9500891
+{'similary': 2.9999999403953552, 'center': array([ 288. , 1001.5]), 'word': ['灯笼']}
+Time used: 1.4216830730438232 Last word: lantern
+hurtful -> ['造成损害']
+['造成损害'] ['可敬', '值得钦佩'] cosine similary 0.96072
+['造成损害'] ['双'] cosine similary 0.93633723
+['造成损害'] ['伤害'] cosine similary 0.9570839
+['造成损害'] ['含糊', '模糊'] cosine similary 0.9427868
+Prompt: 选择符合hurtful的中文翻译，只给出选项，无需解释
+A.可敬的，值得钦佩的
+B.双的
+C.伤害的
+D.含糊的，模糊的
+Answer: C.伤害的。
+Time used: 2.7718377113342285 Last word: hurtful
+preeminent -> ['卓越', '超群']
+['卓越', '超群'] ['未予答复'] cosine similary 0.9349988
+['卓越', '超群'] ['卓越', '超群'] cosine similary 0.99999994
+['卓越', '超群'] ['适于饮用'] cosine similary 0.9403143
+['卓越', '超群'] ['没有决断力'] cosine similary 0.9479325
+{'similary': 2.9999999403953552, 'center': array([288. , 858.5]), 'word': ['卓越', '超群']}
+Time used: 1.4254302978515625 Last word: preeminent
+grassland -> ['草原', '牧草地']
+['草原', '牧草地'] ['草场'] cosine similary 0.97759634
+['草原', '牧草地'] ['葡萄球菌'] cosine similary 0.9502246
+['草原', '牧草地'] ['打高尔夫球人', '高尔夫球'] cosine similary 0.9428927
+['草原', '牧草地'] ['体格', '体魄'] cosine similary 0.9492554
+{'similary': 0.97759634, 'center': array([288.5, 722. ]), 'word': ['草场']}
+Time used: 1.4173283576965332 Last word: grassland
+repel -> ['击退', '抵制', '使厌恶', '使不愉快']
+['击退', '抵制', '使厌恶', '使不愉快'] ['击退', '驱逐'] cosine similary 1.0
+['击退', '抵制', '使厌恶', '使不愉快'] ['需要'] cosine similary 0.9439334
+['击退', '抵制', '使厌恶', '使不愉快'] ['盛情款待', '享用', '享受'] cosine similary 0.9554323
+['击退', '抵制', '使厌恶', '使不愉快'] ['使变黑'] cosine similary 0.974096
+{'similary': 3.0, 'center': array([288.5, 723. ]), 'word': ['击退', '驱逐']}
+Time used: 1.4483332633972168 Last word: repel
+Victorian -> ['维多利亚女王时代', '英国维多利亚女王时代', '维多利亚时代', '维多利亚女王时代人']
+['维多利亚女王时代', '英国维多利亚女王时代', '维多利亚时代', '维多利亚女王时代人'] ['维多利亚女王时代'] cosine similary 1.0
+['维多利亚女王时代', '英国维多利亚女王时代', '维多利亚时代', '维多利亚女王时代人'] ['粉红色'] cosine similary 0.94681484
+['维多利亚女王时代', '英国维多利亚女王时代', '维多利亚时代', '维多利亚女王时代人'] ['激动'] cosine similary 0.9432478
+['维多利亚女王时代', '英国维多利亚女王时代', '维多利亚时代', '维多利亚女王时代人'] ['脱水'] cosine similary 0.936775
+{'similary': 3.0, 'center': array([288., 722.]), 'word': ['维多利亚女王时代']}
+Time used: 1.4451425075531006 Last word: Victorian
+fairytale -> ['童话式', '童话中才有', '优美无比']
+['童话式', '童话中才有', '优美无比'] ['童话'] cosine similary 0.9816209
+['童话式', '童话中才有', '优美无比'] ['威尔士（英国大不列颠岛西.'] cosine similary 0.95554227
+['童话式', '童话中才有', '优美无比'] ['堪培拉', '(澳大利亚首都)'] cosine similary 0.9566973
+['童话式', '童话中才有', '优美无比'] ['头颅', '颅骨'] cosine similary 0.95051086
+{'similary': 2.9816209077835083, 'center': array([288.5, 722. ]), 'word': ['童话']}
+Time used: 1.4313616752624512 Last word: fairytale
+Go Back
+WinRate: 83.33%, Win: 10, Total episodes: 12
+Start episode 13!
+Wait time 5.15s...
+Wait time 5.33s...
+Wait time 5.50s...
+Wait time 5.69s...
+Wait time 5.87s...
+Can't translate call sb. (sth.) up , Use Chat!
+Prompt: 选择符合call sb. (sth.) up的中文翻译，只给出选项，无需解释
+A.到达
+B.定制，定做；按规格改制
+C.激励，鼓励，（使）振作
+D.打电话
+Answer: D
+Time used: 2.625858783721924 Last word: call sb. (sth.) up
+degenerate -> ['使退化', '恶化', '退化', '堕落', '退化', '堕落', '堕落人']
+['使退化', '恶化', '退化', '堕落', '退化', '堕落', '堕落人'] ['动词glitter现在分词形式'] cosine similary 0.94686496
+['使退化', '恶化', '退化', '堕落', '退化', '堕落', '堕落人'] ['堕落', '衰减'] cosine similary 1.0
+['使退化', '恶化', '退化', '堕落', '退化', '堕落', '堕落人'] ['公开', '揭露', '泄露'] cosine similary 0.9604903
+['使退化', '恶化', '退化', '堕落', '退化', '堕落', '堕落人'] ['轻蔑地拒绝', '摒弃', '唾弃'] cosine similary 0.95269036
+{'similary': 3.0, 'center': array([288. , 859.5]), 'word': ['堕落', '衰减']}
+Time used: 1.4625229835510254 Last word: degenerate
+tart -> ['酸', '锋利', '尖刻', '果馅饼', '妓女', '打扮', '(Tart)人名', '(英)塔特']
+['酸', '锋利', '尖刻', '果馅饼', '妓女', '打扮', '(Tart)人名', '(英)塔特'] ['长期(持久)'] cosine similary 0.9713999
+['酸', '锋利', '尖刻', '果馅饼', '妓女', '打扮', '(Tart)人名', '(英)塔特'] ['酸', '尖酸', '尖酸刻薄'] cosine similary 1.0
+['酸', '锋利', '尖刻', '果馅饼', '妓女', '打扮', '(Tart)人名', '(英)塔特'] ['胆小', '胆怯', '羞怯'] cosine similary 0.9639825
+['酸', '锋利', '尖刻', '果馅饼', '妓女', '打扮', '(Tart)人名', '(英)塔特'] ['口渴'] cosine similary 0.9531632
+{'similary': 3.0, 'center': array([288. , 860.5]), 'word': ['酸', '尖酸', '尖酸刻薄']}
+Time used: 1.4606082439422607 Last word: tart
+confining -> ['受限', '限制', '狭窄', '偏狭', '拘束']
+['受限', '限制', '狭窄', '偏狭', '拘束'] ['杰出人物(统治论)'] cosine similary 0.9364199
+['受限', '限制', '狭窄', '偏狭', '拘束'] ['限制', '狭窄'] cosine similary 1.0000001
+['受限', '限制', '狭窄', '偏狭', '拘束'] ['酒醉'] cosine similary 0.96032614
+['受限', '限制', '狭窄', '偏狭', '拘束'] ['寂寞', '孤独'] cosine similary 0.9557008
+{'similary': 3.0000001192092896, 'center': array([288.5, 859.5]), 'word': ['限制', '狭窄']}
+Time used: 1.460019588470459 Last word: confining
+supernova -> ['[天]', '超新星']
+['[天]', '超新星'] ['遗体'] cosine similary 0.9446616
+['[天]', '超新星'] ['官邸', '巨宅', '公馆'] cosine similary 0.95813423
+['[天]', '超新星'] ['阴谋'] cosine similary 0.93871385
+['[天]', '超新星'] ['[天]超新星'] cosine similary 0.97583956
+{'similary': 2.9758395552635193, 'center': array([ 288.5, 1135. ]), 'word': ['[天]超新星']}
+Time used: 1.4220576286315918 Last word: supernova
+ambivalence -> ['[心理]', '矛盾情绪', '正反感情并存']
+['[心理]', '矛盾情绪', '正反感情并存'] ['被告'] cosine similary 0.9405419
+['[心理]', '矛盾情绪', '正反感情并存'] ['矛盾心理'] cosine similary 0.98298824
+['[心理]', '矛盾情绪', '正反感情并存'] ['奥林匹亚周期', '四年周期'] cosine similary 0.96287036
+['[心理]', '矛盾情绪', '正反感情并存'] ['连载小说'] cosine similary 0.95464414
+{'similary': 0.98298824, 'center': array([288.5, 860. ]), 'word': ['矛盾心理']}
+Time used: 1.4046738147735596 Last word: ambivalence
+chaplain -> ['牧师', '专职教士', '(Chaplain)人名', '(法)沙普兰']
+['牧师', '专职教士', '(Chaplain)人名', '(法)沙普兰'] ['方言'] cosine similary 0.9468671
+['牧师', '专职教士', '(Chaplain)人名', '(法)沙普兰'] ['长途冒险旅行'] cosine similary 0.9632361
+['牧师', '专职教士', '(Chaplain)人名', '(法)沙普兰'] ['（基督教）咒诅', '被诅咒.'] cosine similary 0.9635403
+['牧师', '专职教士', '(Chaplain)人名', '(法)沙普兰'] ['牧师', '专职教士'] cosine similary 1.0000001
+{'similary': 3.0000001192092896, 'center': array([ 288. , 1134.5]), 'word': ['牧师', '专职教士']}
+Time used: 1.4385759830474854 Last word: chaplain
+Go Back
+WinRate: 84.62%, Win: 11, Total episodes: 13
+Start episode 14!
+Wait time 5.04s...
+Wait time 5.21s...
+Wait time 5.39s...
+Wait time 5.56s...
+Wait time 5.74s...
+Wait time 5.91s...
+layoff -> ['活动停止期间', '临时解雇', '操作停止', '失业期']
+['活动停止期间', '临时解雇', '操作停止', '失业期'] ['怀疑'] cosine similary 0.94650596
+['活动停止期间', '临时解雇', '操作停止', '失业期'] ['（野外用）睡袋'] cosine similary 0.9633239
+['活动停止期间', '临时解雇', '操作停止', '失业期'] ['活动停止期间'] cosine similary 1.0
+['活动停止期间', '临时解雇', '操作停止', '失业期'] ['中东'] cosine similary 0.93210024
+{'similary': 3.0, 'center': array([288. , 997.5]), 'word': ['活动停止期间']}
+Time used: 1.4083061218261719 Last word: layoff
+falsehood -> ['说谎', '假话', '不真实', '错误信仰']
+['说谎', '假话', '不真实', '错误信仰'] ['小装饰品', '不值钱珠宝'] cosine similary 0.954947
+['说谎', '假话', '不真实', '错误信仰'] ['夜莺'] cosine similary 0.9579987
+['说谎', '假话', '不真实', '错误信仰'] ['资格证明'] cosine similary 0.9639741
+['说谎', '假话', '不真实', '错误信仰'] ['谬误', '不真实', '谎言', '虚假'] cosine similary 1.0
+{'similary': 3.0, 'center': array([ 288.5, 1134.5]), 'word': ['谬误', '不真实', '谎言', '虚假']}
+Time used: 1.4428322315216064 Last word: falsehood
+elongate -> ['拉长', '使延长', '使伸长', '拉长', '延长', '伸长', '伸长', '延长']
+['拉长', '使延长', '使伸长', '拉长', '延长', '伸长', '伸长', '延长'] ['大声喊叫'] cosine similary 0.9423448
+['拉长', '使延长', '使伸长', '拉长', '延长', '伸长', '伸长', '延长'] ['养育', '培育'] cosine similary 0.95412225
+['拉长', '使延长', '使伸长', '拉长', '延长', '伸长', '伸长', '延长'] ['为...做广告'] cosine similary 0.927128
+['拉长', '使延长', '使伸长', '拉长', '延长', '伸长', '伸长', '延长'] ['延长', '伸长'] cosine similary 1.0
+{'similary': 3.0, 'center': array([ 288., 1136.]), 'word': ['延长', '伸长']}
+Time used: 1.441152811050415 Last word: elongate
+impassioned -> ['充满激情', '感激', '使充满激情（impassion过去式和过去分词）']
+['充满激情', '感激', '使充满激情（impassion过去式和过去分词）'] ['热衷', '致力于...'] cosine similary 0.95022875
+['充满激情', '感激', '使充满激情（impassion过去式和过去分词）'] ['假设', '假定'] cosine similary 0.96033937
+['充满激情', '感激', '使充满激情（impassion过去式和过去分词）'] ['慷慨激昂', '充满激情'] cosine similary 1.0
+['充满激情', '感激', '使充满激情（impassion过去式和过去分词）'] ['有魅力', '性感'] cosine similary 0.97182685
+{'similary': 3.0, 'center': array([288.5, 998. ]), 'word': ['慷慨激昂', '充满激情']}
+Time used: 1.442326307296753 Last word: impassioned
+beseech -> ['恳求', '哀求', '乞求', '急切地要求得到']
+['恳求', '哀求', '乞求', '急切地要求得到'] ['适应'] cosine similary 0.94794494
+['恳求', '哀求', '乞求', '急切地要求得到'] ['恳求', '哀求'] cosine similary 1.0
+['恳求', '哀求', '乞求', '急切地要求得到'] ['点头'] cosine similary 0.9569667
+['恳求', '哀求', '乞求', '急切地要求得到'] ['给..上颈手'] cosine similary 0.948142
+{'similary': 3.0, 'center': array([288.5, 859. ]), 'word': ['恳求', '哀求']}
+Time used: 1.4239790439605713 Last word: beseech
+fondness -> ['爱好', '喜爱']
+['爱好', '喜爱'] ['爱好'] cosine similary 0.99999994
+['爱好', '喜爱'] ['价格'] cosine similary 0.9594461
+['爱好', '喜爱'] ['名词diagnosis复数形式'] cosine similary 0.9387947
+['爱好', '喜爱'] ['分裂'] cosine similary 0.94631904
+{'similary': 2.9999999403953552, 'center': array([288.5, 722. ]), 'word': ['爱好']}
+Time used: 1.4200236797332764 Last word: fondness
+repent -> ['后悔', '忏悔', '后悔', '对…感到后悔', '[植]', '匍匐生根', '[动]', '爬行']
+['后悔', '忏悔', '后悔', '对…感到后悔', '[植]', '匍匐生根', '[动]', '爬行'] ['伪装'] cosine similary 0.9491651
+['后悔', '忏悔', '后悔', '对…感到后悔', '[植]', '匍匐生根', '[动]', '爬行'] ['招募（新兵）', '招收（新成..'] cosine similary 0.9631312
+['后悔', '忏悔', '后悔', '对…感到后悔', '[植]', '匍匐生根', '[动]', '爬行'] ['（对某事或行为感到）悔恨'] cosine similary 0.9740009
+['后悔', '忏悔', '后悔', '对…感到后悔', '[植]', '匍匐生根', '[动]', '爬行'] ['动词limit现在分词'] cosine similary 0.96212274
+Prompt: 选择符合repent的中文翻译，只给出选项，无需解释
+A.伪装
+B.招募（新兵），招收（新成..
+C.（对某事或行为感到）悔恨
+D.动词limit的现在分词
+Answer: C.（对某事或行为感到）悔恨。
+Time used: 3.073892831802368 Last word: repent
+Go Back
+WinRate: 85.71%, Win: 12, Total episodes: 14
+Start episode 15!
+Wait time 5.13s...
+Wait time 5.31s...
+Wait time 5.50s...
+Wait time 5.70s...
+Wait time 5.90s...
+dislocation -> ['转位', '混乱', '[医]', '脱臼']
+['转位', '混乱', '[医]', '脱臼'] ['转位', '混乱', '【医】脱白'] cosine similary 1.0
+['转位', '混乱', '[医]', '脱臼'] ['侍从', '随员'] cosine similary 0.959292
+['转位', '混乱', '[医]', '脱臼'] ['(猪、牛等）蹄'] cosine similary 0.9465333
+['转位', '混乱', '[医]', '脱臼'] ['污染物质'] cosine similary 0.9571357
+{'similary': 3.0, 'center': array([298.75, 722.  ]), 'word': ['转位', '混乱', '【医】脱白']}
+Time used: 1.4462733268737793 Last word: dislocation
+panacea -> ['灵丹妙药', '万能药']
+['灵丹妙药', '万能药'] ['超人'] cosine similary 0.9458883
+['灵丹妙药', '万能药'] ['海洋学'] cosine similary 0.9518234
+['灵丹妙药', '万能药'] ['期满'] cosine similary 0.94906014
+['灵丹妙药', '万能药'] ['灵丹妙药', '万能药'] cosine similary 1.0
+{'similary': 3.0, 'center': array([ 288.5, 1134.5]), 'word': ['灵丹妙药', '万能药']}
+Time used: 1.4044265747070312 Last word: panacea
+resolutely -> ['坚决地', '毅然地']
+['坚决地', '毅然地'] ['崇高地'] cosine similary 0.97114354
+['坚决地', '毅然地'] ['重重地', '沉重地', '沉闷地'] cosine similary 0.97668827
+['坚决地', '毅然地'] ['公开地'] cosine similary 0.96978545
+['坚决地', '毅然地'] ['果断地'] cosine similary 0.97561127
+{'similary': 0.97668827, 'center': array([276.5, 859.5]), 'word': ['重重地', '沉重地', '沉闷地']}
+Time used: 1.4366858005523682 Last word: resolutely
+profane -> ['亵渎', '世俗', '异教', '亵渎', '玷污']
+['亵渎', '世俗', '异教', '亵渎', '玷污'] ['收养'] cosine similary 0.95855314
+['亵渎', '世俗', '异教', '亵渎', '玷污'] ['有问题', '成问题'] cosine similary 0.9566765
+['亵渎', '世俗', '异教', '亵渎', '玷污'] ['可收集', '可回收'] cosine similary 0.94685376
+['亵渎', '世俗', '异教', '亵渎', '玷污'] ['亵渎神圣', '不敬', '粗俗..'] cosine similary 0.9722454
+{'similary': 2.9722453951835632, 'center': array([ 285.25, 1134.  ]), 'word': ['亵渎神圣', '不敬', '粗俗..']}
+Time used: 1.4640743732452393 Last word: profane
+Manila -> ['马尼拉麻', '马尼拉纸（等于manilla）', '马尼拉纸制', '马尼拉麻制']
+['马尼拉麻', '马尼拉纸（等于manilla）', '马尼拉纸制', '马尼拉麻制'] ['兴奋'] cosine similary 0.9412176
+['马尼拉麻', '马尼拉纸（等于manilla）', '马尼拉纸制', '马尼拉麻制'] ['增加'] cosine similary 0.94058555
+['马尼拉麻', '马尼拉纸（等于manilla）', '马尼拉纸制', '马尼拉麻制'] ['马尼拉(菲律宾首都)'] cosine similary 0.9816479
+['马尼拉麻', '马尼拉纸（等于manilla）', '马尼拉纸制', '马尼拉麻制'] ['演员', '男演员'] cosine similary 0.94550776
+{'similary': 0.9816479, 'center': array([289., 998.]), 'word': ['马尼拉(菲律宾首都)']}
+Time used: 1.4432239532470703 Last word: Manila
+Can't translate snap at sth. , Use Chat!
+Prompt: 选择符合snap at sth.的中文翻译，只给出选项，无需解释
+A.罢免，驱逐，剥夺，取代
+B.刺激，惹怒
+C.把..置于神龛内
+D.咬住
+Answer: 选择符合snap at sth.的中文翻译，只给出选项，无需解释。
+
+D.咬住。
+Time used: 3.2964138984680176 Last word: snap at sth.
+siren -> ['汽笛', '迷人女人', '歌声动人女歌手', '迷人', '响着警报器行驶', '引诱']
+['汽笛', '迷人女人', '歌声动人女歌手', '迷人', '响着警报器行驶', '引诱'] ['摆', '钟摆'] cosine similary 0.9524314
+['汽笛', '迷人女人', '歌声动人女歌手', '迷人', '响着警报器行驶', '引诱'] ['项目', '工程'] cosine similary 0.95587516
+['汽笛', '迷人女人', '歌声动人女歌手', '迷人', '响着警报器行驶', '引诱'] ['MP3播放器'] cosine similary 0.95509773
+['汽笛', '迷人女人', '歌声动人女歌手', '迷人', '响着警报器行驶', '引诱'] ['汽笛', '警报器'] cosine similary 1.0000001
+{'similary': 3.0000001192092896, 'center': array([ 288., 1135.]), 'word': ['汽笛', '警报器']}
+Time used: 1.479381799697876 Last word: siren
+Go Back
+WinRate: 86.67%, Win: 13, Total episodes: 15
+Start episode 16!
+Wait time 5.02s...
+Wait time 5.20s...
+Wait time 5.38s...
+Wait time 5.56s...
+Wait time 5.74s...
+Wait time 5.92s...
+shunt -> ['使转轨', '使分流', '回避讨论', '推延', '转轨', '转向一边', '往返', '转轨', '[电]', '分流器']
+['使转轨', '使分流', '回避讨论', '推延', '转轨', '转向一边', '往返', '转轨', '[电]', '分流器'] ['开关'] cosine similary 0.9578858
+['使转轨', '使分流', '回避讨论', '推延', '转轨', '转向一边', '往返', '转轨', '[电]', '分流器'] ['转轨'] cosine similary 1.0000001
+['使转轨', '使分流', '回避讨论', '推延', '转轨', '转向一边', '往返', '转轨', '[电]', '分流器'] ['快递员', '通讯员', '导游'] cosine similary 0.9641321
+['使转轨', '使分流', '回避讨论', '推延', '转轨', '转向一边', '往返', '转轨', '[电]', '分流器'] ['菲律宾(亚洲国名)'] cosine similary 0.9576044
+{'similary': 3.0000001192092896, 'center': array([288. , 859.5]), 'word': ['转轨']}
+Time used: 1.4771487712860107 Last word: shunt
+anecdotal -> ['轶事', '轶事一样', '多轶事']
+['轶事', '轶事一样', '多轶事'] ['沉思'] cosine similary 0.9479861
+['轶事', '轶事一样', '多轶事'] ['难忘'] cosine similary 0.95512176
+['轶事', '轶事一样', '多轶事'] ['逸事', '趣闻'] cosine similary 0.97784895
+['轶事', '轶事一样', '多轶事'] ['愁容满面', '没有希望'] cosine similary 0.9626279
+{'similary': 0.97784895, 'center': array([287.5, 996.5]), 'word': ['逸事', '趣闻']}
+Time used: 1.4516375064849854 Last word: anecdotal
+envoy -> ['使者', '全权公使']
+['使者', '全权公使'] ['二重唱'] cosine similary 0.95870423
+['使者', '全权公使'] ['正常化'] cosine similary 0.96347106
+['使者', '全权公使'] ['人行道'] cosine similary 0.9538493
+['使者', '全权公使'] ['使者'] cosine similary 0.99999994
+{'similary': 2.9999999403953552, 'center': array([ 288.5, 1134.5]), 'word': ['使者']}
+Time used: 1.3992226123809814 Last word: envoy
+chestnut -> 

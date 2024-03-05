@@ -137,3 +137,9 @@
 2024/03/04：按照15帧手工标记，包含：`'skeleton', 'skeleton-evolution', 'miner', 'fisherman', 'furnace', 'fire-spirit', 'giant-skeleton', 'bomb', 'goblin-giant', 'spear-goblin', 'goblin-hut', 'golden-knight'` 7个新单位切片，优化4个旧单位切片。
 
 有效帧范围：`0~3360, 3495~4065` 总计266帧，用时159mins完成，筛选切片用时90mins，重新单独计算敌方切片数量（之前将我方和敌方合并起来计算的，有四个切片只有我方有敌方没有），当前还差42种切片，合并起来还差38种切片。
+
+### WTY_20240305_episodes_1
+
+2024/03/05：按照15帧手工标记，包含：`'cannon', 'giant', 'guard', 'heal-spirit', 'hog-rider', 'hunter', 'ice-wizard', 'knight', 'knight-evolution'` 8个新敌方切片，优化1个切片。
+
+有效帧范围：`0~4785` 总计320帧，用时124mins完成，筛选切片用时

@@ -85,3 +85,10 @@ Dataset size: 5238
 Maximum bbox number: 41
 with path: /home/yy/Coding/datasets/Clash-Royale-Dataset/images/part2/OYASSU_20230305_episodes/4/07425.json
 
+Build at 2024.03.05 16:56:39, by yy-TX4
+Write train/val annotation files to /home/yy/Coding/datasets/Clash-Royale-Dataset/images/part2,
+dataset infomations to /home/yy/Coding/GitHub/KataCR/katacr/constants/dataset.py
+Dataset size: 5558
+Maximum bbox number: 41
+with path: /home/yy/Coding/datasets/Clash-Royale-Dataset/images/part2/OYASSU_20230305_episodes/4/07425.json
+
