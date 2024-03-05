@@ -289,24 +289,6 @@
       "shape_type": "rectangle",
       "flags": {},
       "mask": null
-    },
-    {
-      "label": "elixir0",
-      "points": [
-        [
-          443.55797337760515,
-          427.73733361003235
-        ],
-        [
-          475.46067415730334,
-          467.19101123595505
-        ]
-      ],
-      "group_id": null,
-      "description": "",
-      "shape_type": "rectangle",
-      "flags": {},
-      "mask": null
     }
   ],
   "imagePath": "02310.jpg",

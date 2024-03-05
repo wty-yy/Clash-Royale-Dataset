@@ -142,4 +142,4 @@
 
 2024/03/05：按照15帧手工标记，包含：`'cannon', 'giant', 'guard', 'heal-spirit', 'hog-rider', 'hunter', 'ice-wizard', 'knight', 'knight-evolution'` 8个新敌方切片，优化1个切片。
 
-有效帧范围：`0~4785` 总计320帧，用时124mins完成，筛选切片用时
+有效帧范围：`0~4785` 总计320帧，用时124mins完成，筛选切片用时80mins，更新数据集为annotation v0.10, segment v0.10（应该是v0.12但是版本更新代码将v0.9视为了上个版本，导致跳过了两次，已修复），当前敌方单位切片还差35种。
