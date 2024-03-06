@@ -146,4 +146,4 @@
 
 ### WTY_20240306_episodes_1
 
-2024/03/06：按照15帧手工标记，包含：`'lava-hound', 'lava-pup', 'mega-knight', 'mini-pekka', 'monk', 'mortar', 'mortar-evolution', 'mother-witch', 'hog', 'musketeer', 'night-witch', 'bat'` 12个新敌方切片。
+2024/03/06：按照15帧手工标记，包含：`'lava-hound', 'lava-pup', 'mega-knight', 'mini-pekka', 'monk', 'mortar', 'mortar-evolution', 'mother-witch', 'hog', 'musketeer', 'night-witch', 'bat', 'goblin'` 12个新敌方切片，1个切片优化。
