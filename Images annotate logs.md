@@ -148,4 +148,6 @@
 
 2024/03/06：按照15帧手工标记，包含：`'lava-hound', 'lava-pup', 'mega-knight', 'mini-pekka', 'monk', 'mortar', 'mortar-evolution', 'goblin-ball', 'mother-witch', 'hog', 'musketeer', 'night-witch', 'bat', 'goblin'` 12个新敌方切片，1个切片优化。
 
+有效帧范围：`0~5145` 总计344帧，用时160mins完成，筛选切片用时
+
 注：加入一个新的切片类型 `'goblin-ball'`。
