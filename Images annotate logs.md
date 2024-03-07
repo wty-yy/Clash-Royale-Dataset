@@ -148,6 +148,14 @@
 
 2024/03/06：按照15帧手工标记，包含：`'lava-hound', 'lava-pup', 'mega-knight', 'mini-pekka', 'monk', 'mortar', 'mortar-evolution', 'goblin-ball', 'mother-witch', 'hog', 'musketeer', 'night-witch', 'bat', 'goblin'` 12个新敌方切片，1个切片优化。
 
-有效帧范围：`0~5145` 总计344帧，用时160mins完成，筛选切片用时120mins。个呢更新数据集为，当前敌方单位切片为还差25种。
+有效帧范围：`0~5145` 总计344帧，用时160mins完成，筛选切片用时120mins。当前敌方单位切片为还差24种。
 
 注：加入一个新的切片类型 `'goblin-ball'`。
+
+### WTY_20240307_episodes_1,2
+
+2024/03/07：按照15帧手工标记，包含：`'phoenix-big', 'phoenix-egg', 'phoenix-small', 'prince', 'rascal-boy', 'rascal-girl', 'royal-recruit-evolution', 'skeleton-barrel', 'skeleton-dragon', 'skeleton-king', 'skeleton-king-bar', 'skeleton-king-skill1', 'skeleton', 'sparky', 'tesla', 'tesla-evolution'`，14个新敌方切片（10地面，4空中），优化2个切片。
+
+有效帧范围：`0~5115` 总结342帧，用时164mins完成，筛选切片用时126mins完成，数据集版本更新为a0.12,s0.12，当前敌方切片还差12种。
+
+注：加入2个新切片类型 `'skeleton-king-bar', 'skeleton-king-skill', 'tesla-evolution-shock'`
