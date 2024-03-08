@@ -163,11 +163,15 @@
 
 注：加入2个新切片类型 `'skeleton-king-bar', 'skeleton-king-skill', 'tesla-evolution-shock'`
 
-### WTY_20240308_episodes_1,2
+### WTY_20240308_episodes_1,2,3
 
 2024/03/08：按照15帧手工标记，包含：`'tombstone', 'valkyrie', 'valkyrie-evolution', 'wall-breaker', 'witch', 'wizard', 'electro-spirit, fire-spirit, heal-spirit', 'tesla-evolution', 'tesla-evoltuion-shock'` 6个新敌方切片，优化5个切片。
 
 有效帧范围：
 - episdoe 1: `0~2835` 总计190帧，用时82mins完成
 - episode 2: `0~795` 总计54帧，用时10mins完成
-- 
+- episode 3: `0~765` 总计52帧，用时15mins完成
+- 筛选切片用时70mins完成，数据集版本更新为 annotation v0.13, segment v0.13，敌方切片还差6种（其中`mirror`不用标记，可以通过逻辑判断，剩余5种均为进化单位，需要从回放中切片获取）
+
+注：`axe` 的识别不再区分阵营
+
