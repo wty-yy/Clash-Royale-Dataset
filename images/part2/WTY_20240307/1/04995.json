@@ -343,6 +343,24 @@
       "shape_type": "rectangle",
       "flags": {},
       "mask": null
+    },
+    {
+      "label": "king-tower-bar0",
+      "points": [
+        [
+          213.08366533864543,
+          835.4501992031873
+        ],
+        [
+          356.9083665338645,
+          874.8924302788844
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
     }
   ],
   "imagePath": "04995.jpg",

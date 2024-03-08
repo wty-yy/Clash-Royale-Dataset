@@ -154,8 +154,20 @@
 
 ### WTY_20240307_episodes_1,2
 
-2024/03/07：按照15帧手工标记，包含：`'phoenix-big', 'phoenix-egg', 'phoenix-small', 'prince', 'rascal-boy', 'rascal-girl', 'royal-recruit-evolution', 'skeleton-barrel', 'skeleton-dragon', 'skeleton-king', 'skeleton-king-bar', 'skeleton-king-skill1', 'skeleton', 'sparky', 'tesla', 'tesla-evolution'`，14个新敌方切片（10地面，4空中），优化2个切片。
+2024/03/07：按照15帧手工标记，包含：`'phoenix-big', 'phoenix-egg', 'phoenix-small', 'prince', 'rascal-boy', 'rascal-girl', 'royal-recruit-evolution', 'skeleton-barrel', 'skeleton-dragon', 'skeleton-king', 'skeleton-king-bar', 'skeleton-king-skill1', 'skeleton', 'sparky', 'tesla', 'tesla-evolution', 'tesla-evolution-shock`，16个新敌方切片（10地面，4空中，2个和单位相关的地面法术），优化2个切片。
 
-有效帧范围：`0~5115` 总结342帧，用时164mins完成，筛选切片用时126mins完成，数据集版本更新为a0.12,s0.12，当前敌方切片还差12种。
+有效帧范围：
+- episode 1: `0~5115` 总计342帧，用时164mins完成
+- episode 2: `0~375` 总计26帧，用时15mins完成
+- 筛选切片用时126mins完成，数据集版本更新为a0.12,s0.12，当前敌方切片还差12种。
 
 注：加入2个新切片类型 `'skeleton-king-bar', 'skeleton-king-skill', 'tesla-evolution-shock'`
+
+### WTY_20240308_episodes_1,2
+
+2024/03/08：按照15帧手工标记，包含：`'tombstone', 'valkyrie', 'valkyrie-evolution', 'wall-breaker', 'witch', 'wizard', 'electro-spirit, fire-spirit, heal-spirit', 'tesla-evolution', 'tesla-evoltuion-shock'` 6个新敌方切片，优化5个切片。
+
+有效帧范围：
+- episdoe 1: `0~2835` 总计190帧，用时82mins完成
+- episode 2: `0~795` 总计54帧，用时10mins完成
+- 
