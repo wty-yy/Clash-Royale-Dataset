@@ -175,3 +175,19 @@
 
 注：`axe` 的识别不再区分阵营
 
+### WTY_20240309_episodes_1~8
+
+2024/03/09：按照15帧手工标记，主要包含：`'barbarian-evolution', 'bat-evolution', 'ice-spirit-evolution', 'royal-recruit-evolution', 'wall-breaker-evolution'` 5种进化卡。由于我没有这几种进化卡，无法自己构造素材，所以只能从实际对战中截取切片。
+
+有效帧范围：
+- `WTY_20240309_barbarian`: 总计40帧，用时27mins完成
+- `WTY_20240309_barbarian_2`: 总计22帧，用时37mins完成
+- `WTY_20240309_bat`: 总计36帧，用时24mins完成
+- `WTY_20240309_firecracker`: 总计82帧，用时30mins完成
+- `WTY_20240309_ice_spirit`: 总计20帧，用时20mins完成
+- `WTY_20240309_royal_recurit`: 总计52帧，用时36mins完成
+- `WTY_20240309_wall_breaker`: 总计12帧，用时4mins完成
+- `WTY_20240309_wall_breaker_2`: 总计12帧，用时4mins完成
+
+注：加入一个新的单位 `ice-spirit-evolution-symbol`。
+
