@@ -188,6 +188,7 @@
 - `WTY_20240309_royal_recurit`: 总计52帧，用时36mins完成
 - `WTY_20240309_wall_breaker`: 总计12帧，用时4mins完成
 - `WTY_20240309_wall_breaker_2`: 总计12帧，用时4mins完成
+- 筛选切片用时150mins完成，数据集更新为annotation v0.14, segment v0.14完成除去`mirror`之外的所有敌方单位切片，总计150种。
 
 注：加入一个新的单位 `ice-spirit-evolution-symbol`。
 
