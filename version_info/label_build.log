@@ -279,3 +279,13 @@ with path: /home/yy/Coding/datasets/Clash-Royale-Dataset/images/part2/OYASSU_202
 Train datasize: 5473
 Val datasize: 1369
 
+Build at 2024.04.12 19:27:03, by yy-ASUS-TUF-Gaming-A15-FA507XV
+Write train/val annotation files to /home/yy/Coding/datasets/Clash-Royale-Dataset/images/part2,
+dataset infomations to /home/yy/Coding/GitHub/KataCR/katacr/constants/dataset.py
+Save YOLO detection data config at /home/yy/Coding/datasets/Clash-Royale-Dataset/images/part2/ClashRoyale_detection.yaml
+Dataset size: 6928
+Maximum bbox number: 55
+with path: /home/yy/Coding/datasets/Clash-Royale-Dataset/images/part2/WTY_20240412/dagger0_cannoneer1_1/00210.json
+Train datasize: 5542
+Val datasize: 1386
+
