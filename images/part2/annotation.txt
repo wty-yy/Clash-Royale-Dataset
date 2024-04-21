@@ -250,7 +250,7 @@
 ./WTY_20240304/1/02085.jpg ./WTY_20240304/1/02085.txt
 ./OYASSU_20210528_episodes/3/02565.jpg ./OYASSU_20210528_episodes/3/02565.txt
 ./OYASSU_20230203_episodes/2/00150.jpg ./OYASSU_20230203_episodes/2/00150.txt
-./lan77_20240406_30fps_an_episodes/2/02730.jpg ./lan77_20240406_30fps_an_episodes/2/02730.txt
+./lan77_20240406_episodes/2/02730.jpg ./lan77_20240406_episodes/2/02730.txt
 ./WTY_20240307/2/00255.jpg ./WTY_20240307/2/00255.txt
 ./OYASSU_20210528_episodes/5/00810.jpg ./OYASSU_20210528_episodes/5/00810.txt
 ./OYASSU_20210528_episodes/3/06675.jpg ./OYASSU_20210528_episodes/3/06675.txt
@@ -407,7 +407,7 @@
 ./OYASSU_20230305_episodes/4/00405.jpg ./OYASSU_20230305_episodes/4/00405.txt
 ./WTY_20240309/WTY_20240309_royal_recurit/00675.jpg ./WTY_20240309/WTY_20240309_royal_recurit/00675.txt
 ./WTY_20240308/1/01560.jpg ./WTY_20240308/1/01560.txt
-./lan77_20240406_30fps_an_episodes/2/02775.jpg ./lan77_20240406_30fps_an_episodes/2/02775.txt
+./lan77_20240406_episodes/2/02775.jpg ./lan77_20240406_episodes/2/02775.txt
 ./OYASSU_20210528_episodes/2/05025.jpg ./OYASSU_20210528_episodes/2/05025.txt
 ./OYASSU_20210528_episodes/6/08910.jpg ./OYASSU_20210528_episodes/6/08910.txt
 ./WTY_20240222_8spells/1/00830.jpg ./WTY_20240222_8spells/1/00830.txt
@@ -1532,7 +1532,7 @@
 ./WTY_20240227_miners/1/01510.jpg ./WTY_20240227_miners/1/01510.txt
 ./OYASSU_20210528_episodes/6/00030.jpg ./OYASSU_20210528_episodes/6/00030.txt
 ./WTY_20240305/1/01830.jpg ./WTY_20240305/1/01830.txt
-./lan77_20240406_30fps_an_episodes/2/02715.jpg ./lan77_20240406_30fps_an_episodes/2/02715.txt
+./lan77_20240406_episodes/2/02715.jpg ./lan77_20240406_episodes/2/02715.txt
 ./WTY_20240222_8spells/1/00840.jpg ./WTY_20240222_8spells/1/00840.txt
 ./OYASSU_20210528_episodes/5/03990.jpg ./OYASSU_20210528_episodes/5/03990.txt
 ./OYASSU_20210528_episodes/1/01305.jpg ./OYASSU_20210528_episodes/1/01305.txt
@@ -1654,7 +1654,7 @@
 ./OYASSU_20230212_episodes/4/01470.jpg ./OYASSU_20230212_episodes/4/01470.txt
 ./WTY_20240309/WTY_20240309_barbarian/00150.jpg ./WTY_20240309/WTY_20240309_barbarian/00150.txt
 ./WTY_20240227_miners/1/03160.jpg ./WTY_20240227_miners/1/03160.txt
-./lan77_20240406_30fps_an_episodes/2/02835.jpg ./lan77_20240406_30fps_an_episodes/2/02835.txt
+./lan77_20240406_episodes/2/02835.jpg ./lan77_20240406_episodes/2/02835.txt
 ./OYASSU_20230305_episodes/4/06195.jpg ./OYASSU_20230305_episodes/4/06195.txt
 ./OYASSU_20230305_episodes/4/03435.jpg ./OYASSU_20230305_episodes/4/03435.txt
 ./WTY_20240305/1/02805.jpg ./WTY_20240305/1/02805.txt
@@ -1925,7 +1925,7 @@
 ./OYASSU_20210528_episodes/1/03990.jpg ./OYASSU_20210528_episodes/1/03990.txt
 ./WTY_20240301/1/01440.jpg ./WTY_20240301/1/01440.txt
 ./OYASSU_20210528_episodes/6/01110.jpg ./OYASSU_20210528_episodes/6/01110.txt
-./lan77_20240406_30fps_an_episodes/2/02820.jpg ./lan77_20240406_30fps_an_episodes/2/02820.txt
+./lan77_20240406_episodes/2/02820.jpg ./lan77_20240406_episodes/2/02820.txt
 ./OYASSU_20230203_episodes/2/03345.jpg ./OYASSU_20230203_episodes/2/03345.txt
 ./WTY_20240307/1/01590.jpg ./WTY_20240307/1/01590.txt
 ./OYASSU_20230305_episodes/4/02415.jpg ./OYASSU_20230305_episodes/4/02415.txt
@@ -2146,7 +2146,7 @@
 ./WTY_20240307/1/02970.jpg ./WTY_20240307/1/02970.txt
 ./WTY_20240303/1/01770.jpg ./WTY_20240303/1/01770.txt
 ./OYASSU_20210528_episodes/3/08145.jpg ./OYASSU_20210528_episodes/3/08145.txt
-./lan77_20240406_30fps_an_episodes/2/02850.jpg ./lan77_20240406_30fps_an_episodes/2/02850.txt
+./lan77_20240406_episodes/2/02850.jpg ./lan77_20240406_episodes/2/02850.txt
 ./OYASSU_20210528_episodes/5/07230.jpg ./OYASSU_20210528_episodes/5/07230.txt
 ./OYASSU_20210528_episodes/1/03090.jpg ./OYASSU_20210528_episodes/1/03090.txt
 ./WTY_20240309/WTY_20240309_barbarian/00270.jpg ./WTY_20240309/WTY_20240309_barbarian/00270.txt
@@ -3871,7 +3871,7 @@
 ./OYASSU_20210528_episodes/5/04440.jpg ./OYASSU_20210528_episodes/5/04440.txt
 ./OYASSU_20230212_episodes/4/06720.jpg ./OYASSU_20230212_episodes/4/06720.txt
 ./OYASSU_20210528_episodes/1/01650.jpg ./OYASSU_20210528_episodes/1/01650.txt
-./lan77_20240406_30fps_an_episodes/2/02805.jpg ./lan77_20240406_30fps_an_episodes/2/02805.txt
+./lan77_20240406_episodes/2/02805.jpg ./lan77_20240406_episodes/2/02805.txt
 ./OYASSU_20230305_episodes/4/00210.jpg ./OYASSU_20230305_episodes/4/00210.txt
 ./WTY_20240305/1/00300.jpg ./WTY_20240305/1/00300.txt
 ./OYASSU_20210528_episodes/2/03285.jpg ./OYASSU_20210528_episodes/2/03285.txt
@@ -4675,7 +4675,7 @@
 ./WTY_20240306/1/03645.jpg ./WTY_20240306/1/03645.txt
 ./OYASSU_20230203_episodes/2/02490.jpg ./OYASSU_20230203_episodes/2/02490.txt
 ./WTY_20240308/1/00630.jpg ./WTY_20240308/1/00630.txt
-./lan77_20240406_30fps_an_episodes/2/02790.jpg ./lan77_20240406_30fps_an_episodes/2/02790.txt
+./lan77_20240406_episodes/2/02790.jpg ./lan77_20240406_episodes/2/02790.txt
 ./WTY_20240218_episodes/1/06150.jpg ./WTY_20240218_episodes/1/06150.txt
 ./WTY_20240306/1/00285.jpg ./WTY_20240306/1/00285.txt
 ./OYASSU_20230203_episodes/2/01530.jpg ./OYASSU_20230203_episodes/2/01530.txt
@@ -5431,7 +5431,7 @@
 ./WTY_20240309/WTY_20240309_barbarian_2/00015.jpg ./WTY_20240309/WTY_20240309_barbarian_2/00015.txt
 ./OYASSU_20210528_episodes/1/02610.jpg ./OYASSU_20210528_episodes/1/02610.txt
 ./WTY_20240303/1/02040.jpg ./WTY_20240303/1/02040.txt
-./lan77_20240406_30fps_an_episodes/2/02865.jpg ./lan77_20240406_30fps_an_episodes/2/02865.txt
+./lan77_20240406_episodes/2/02865.jpg ./lan77_20240406_episodes/2/02865.txt
 ./WTY_20240305/1/00270.jpg ./WTY_20240305/1/00270.txt
 ./WTY_20240307/1/01725.jpg ./WTY_20240307/1/01725.txt
 ./WTY_20240305/1/02865.jpg ./WTY_20240305/1/02865.txt
@@ -6411,7 +6411,7 @@
 ./OYASSU_20230305_episodes/4/03630.jpg ./OYASSU_20230305_episodes/4/03630.txt
 ./WTY_20240308/1/02085.jpg ./WTY_20240308/1/02085.txt
 ./OYASSU_20230212_episodes/4/02865.jpg ./OYASSU_20230212_episodes/4/02865.txt
-./lan77_20240406_30fps_an_episodes/2/02745.jpg ./lan77_20240406_30fps_an_episodes/2/02745.txt
+./lan77_20240406_episodes/2/02745.jpg ./lan77_20240406_episodes/2/02745.txt
 ./OYASSU_20210528_episodes/3/06930.jpg ./OYASSU_20210528_episodes/3/06930.txt
 ./OYASSU_20210528_episodes/1/03045.jpg ./OYASSU_20210528_episodes/1/03045.txt
 ./OYASSU_20230305_episodes/4/03705.jpg ./OYASSU_20230305_episodes/4/03705.txt
@@ -6799,7 +6799,7 @@
 ./WTY_20240301/1/01275.jpg ./WTY_20240301/1/01275.txt
 ./WTY_20240307/1/03000.jpg ./WTY_20240307/1/03000.txt
 ./OYASSU_20210528_episodes/5/06390.jpg ./OYASSU_20210528_episodes/5/06390.txt
-./lan77_20240406_30fps_an_episodes/2/02760.jpg ./lan77_20240406_30fps_an_episodes/2/02760.txt
+./lan77_20240406_episodes/2/02760.jpg ./lan77_20240406_episodes/2/02760.txt
 ./OYASSU_20210528_episodes/6/01380.jpg ./OYASSU_20210528_episodes/6/01380.txt
 ./OYASSU_20210528_episodes/3/02445.jpg ./OYASSU_20210528_episodes/3/02445.txt
 ./WTY_20240218_episodes/1/01065.jpg ./WTY_20240218_episodes/1/01065.txt

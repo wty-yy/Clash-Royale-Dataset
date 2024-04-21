@@ -860,7 +860,7 @@
 ./OYASSU_20230305_episodes/4/03630.jpg
 ./WTY_20240308/1/02085.jpg
 ./OYASSU_20230212_episodes/4/02865.jpg
-./lan77_20240406_30fps_an_episodes/2/02745.jpg
+./lan77_20240406_episodes/2/02745.jpg
 ./OYASSU_20210528_episodes/3/06930.jpg
 ./OYASSU_20210528_episodes/1/03045.jpg
 ./OYASSU_20230305_episodes/4/03705.jpg
@@ -1248,7 +1248,7 @@
 ./WTY_20240301/1/01275.jpg
 ./WTY_20240307/1/03000.jpg
 ./OYASSU_20210528_episodes/5/06390.jpg
-./lan77_20240406_30fps_an_episodes/2/02760.jpg
+./lan77_20240406_episodes/2/02760.jpg
 ./OYASSU_20210528_episodes/6/01380.jpg
 ./OYASSU_20210528_episodes/3/02445.jpg
 ./WTY_20240218_episodes/1/01065.jpg
